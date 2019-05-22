@@ -1,0 +1,1383 @@
+INFO 2019-04-10 18:09:07,447 basehttp 154 "GET /course/ HTTP/1.1" 200 7700
+INFO 2019-04-10 18:09:07,931 basehttp 154 "GET /course/ HTTP/1.1" 200 7700
+INFO 2019-04-10 18:09:08,301 basehttp 154 "GET /course/ HTTP/1.1" 200 7700
+INFO 2019-04-10 18:09:08,445 basehttp 154 "GET /course/ HTTP/1.1" 200 7700
+INFO 2019-04-10 18:09:09,606 basehttp 154 "GET / HTTP/1.1" 200 18273
+INFO 2019-04-10 18:09:10,475 basehttp 154 "GET / HTTP/1.1" 200 18273
+INFO 2019-04-10 18:09:11,653 basehttp 154 "GET / HTTP/1.1" 200 18273
+INFO 2019-04-10 18:09:12,399 basehttp 154 "GET / HTTP/1.1" 200 18273
+INFO 2019-04-10 18:09:12,844 basehttp 154 "GET /course/ HTTP/1.1" 200 7700
+INFO 2019-04-10 18:09:13,244 basehttp 154 "GET /course/ HTTP/1.1" 200 7700
+INFO 2019-04-10 18:09:13,482 basehttp 154 "GET /course/ HTTP/1.1" 200 7700
+INFO 2019-04-10 18:09:13,635 basehttp 154 "GET /course/ HTTP/1.1" 200 7700
+INFO 2019-04-10 18:09:13,798 basehttp 154 "GET /course/ HTTP/1.1" 200 7700
+INFO 2019-04-10 18:09:13,952 basehttp 154 "GET /course/ HTTP/1.1" 200 7700
+INFO 2019-04-10 18:09:14,106 basehttp 154 "GET /course/ HTTP/1.1" 200 7700
+INFO 2019-04-10 18:09:14,260 basehttp 154 "GET /course/ HTTP/1.1" 200 7700
+INFO 2019-04-10 18:09:16,035 basehttp 154 "GET / HTTP/1.1" 200 18273
+INFO 2019-04-10 18:09:16,155 basehttp 154 "GET / HTTP/1.1" 200 18273
+INFO 2019-04-10 18:09:16,309 basehttp 154 "GET / HTTP/1.1" 200 18273
+INFO 2019-04-10 18:09:16,499 basehttp 154 "GET / HTTP/1.1" 200 18273
+INFO 2019-04-10 18:09:16,637 basehttp 154 "GET / HTTP/1.1" 200 18273
+INFO 2019-04-10 18:09:20,228 basehttp 154 "GET /course/ HTTP/1.1" 200 7700
+INFO 2019-04-10 18:09:20,505 basehttp 154 "GET /course/ HTTP/1.1" 200 7700
+INFO 2019-04-10 18:09:20,652 basehttp 154 "GET /course/ HTTP/1.1" 200 7700
+INFO 2019-04-10 18:09:20,813 basehttp 154 "GET /course/ HTTP/1.1" 200 7700
+INFO 2019-04-10 18:09:21,189 basehttp 154 "GET /course/ HTTP/1.1" 200 7700
+INFO 2019-04-10 18:11:27,446 basehttp 154 "GET /course/ HTTP/1.1" 200 4935
+INFO 2019-04-10 18:11:27,463 basehttp 154 "GET /static/css/course/course.css HTTP/1.1" 200 1916
+INFO 2019-04-10 18:11:30,995 basehttp 154 "GET /course/ HTTP/1.1" 200 4935
+INFO 2019-04-10 18:11:32,320 basehttp 154 "GET / HTTP/1.1" 200 18275
+INFO 2019-04-10 18:11:33,303 basehttp 154 "GET /course/ HTTP/1.1" 200 4935
+INFO 2019-04-10 18:18:08,619 basehttp 154 "GET / HTTP/1.1" 200 18275
+INFO 2019-04-10 18:18:16,651 basehttp 154 "GET /course/ HTTP/1.1" 200 4935
+WARNING 2019-04-10 18:18:17,250 log 228 Not Found: /doc/docDownload.html
+WARNING 2019-04-10 18:18:17,250 basehttp 154 "GET /doc/docDownload.html HTTP/1.1" 404 2403
+WARNING 2019-04-10 18:18:20,473 log 228 Not Found: /doc/docDownload.html
+WARNING 2019-04-10 18:18:20,474 basehttp 154 "GET /doc/docDownload.html HTTP/1.1" 404 2403
+WARNING 2019-04-10 18:20:25,667 log 228 Not Found: /doc/docDownload.html
+WARNING 2019-04-10 18:20:25,669 basehttp 154 "GET /doc/docDownload.html HTTP/1.1" 404 2403
+INFO 2019-04-10 18:20:52,848 basehttp 154 "GET /course/ HTTP/1.1" 200 4935
+INFO 2019-04-10 18:21:21,100 basehttp 154 "GET /course/ HTTP/1.1" 200 4927
+INFO 2019-04-10 18:21:22,323 basehttp 154 "GET / HTTP/1.1" 200 18267
+INFO 2019-04-10 18:21:22,892 basehttp 154 "GET /docDownload/ HTTP/1.1" 200 9983
+INFO 2019-04-10 18:21:22,924 basehttp 154 "GET /static/css/doc/docDownload.css HTTP/1.1" 200 2121
+INFO 2019-04-10 18:21:23,671 basehttp 154 "GET /docDownload/ HTTP/1.1" 200 9983
+INFO 2019-04-10 18:21:32,656 basehttp 154 "GET /docDownload/ HTTP/1.1" 200 9977
+WARNING 2019-04-10 18:21:33,695 log 228 Not Found: /docDownload/docDownload/
+WARNING 2019-04-10 18:21:33,698 basehttp 154 "GET /docDownload/docDownload/ HTTP/1.1" 404 2415
+INFO 2019-04-10 18:21:42,924 basehttp 154 "GET / HTTP/1.1" 200 18261
+INFO 2019-04-10 18:21:44,258 basehttp 154 "GET / HTTP/1.1" 200 18261
+INFO 2019-04-10 18:21:45,094 basehttp 154 "GET /course/ HTTP/1.1" 200 4921
+WARNING 2019-04-10 18:21:45,517 log 228 Not Found: /course/course/
+WARNING 2019-04-10 18:21:45,518 basehttp 154 "GET /course/course/ HTTP/1.1" 404 2385
+WARNING 2019-04-10 18:21:54,684 log 228 Not Found: /course/course/
+WARNING 2019-04-10 18:21:54,686 basehttp 154 "GET /course/course/ HTTP/1.1" 404 2385
+INFO 2019-04-10 18:22:01,456 basehttp 154 "GET / HTTP/1.1" 200 18262
+INFO 2019-04-10 18:22:02,770 basehttp 154 "GET /course/ HTTP/1.1" 200 4922
+INFO 2019-04-10 18:22:03,251 basehttp 154 "GET /course/ HTTP/1.1" 200 4922
+INFO 2019-04-10 18:22:03,662 basehttp 154 "GET /course/ HTTP/1.1" 200 4922
+INFO 2019-04-10 18:22:03,833 basehttp 154 "GET /course/ HTTP/1.1" 200 4922
+INFO 2019-04-10 18:22:03,974 basehttp 154 "GET /course/ HTTP/1.1" 200 4922
+WARNING 2019-04-10 18:22:09,336 log 228 Not Found: /course/docDownload/
+WARNING 2019-04-10 18:22:09,338 basehttp 154 "GET /course/docDownload/ HTTP/1.1" 404 2400
+WARNING 2019-04-10 18:22:17,488 log 228 Not Found: /course/docDownload/
+WARNING 2019-04-10 18:22:17,488 basehttp 154 "GET /course/docDownload/ HTTP/1.1" 404 2400
+INFO 2019-04-10 18:22:20,348 basehttp 154 "GET / HTTP/1.1" 200 18263
+INFO 2019-04-10 18:22:22,258 basehttp 154 "GET / HTTP/1.1" 200 18263
+INFO 2019-04-10 18:22:22,729 basehttp 154 "GET /course/ HTTP/1.1" 200 4923
+INFO 2019-04-10 18:22:23,130 basehttp 154 "GET /course/ HTTP/1.1" 200 4923
+INFO 2019-04-10 18:22:23,727 basehttp 154 "GET /docDownload/ HTTP/1.1" 200 9979
+INFO 2019-04-10 18:22:24,245 basehttp 154 "GET /docDownload/ HTTP/1.1" 200 9979
+INFO 2019-04-10 18:22:24,458 basehttp 154 "GET /docDownload/ HTTP/1.1" 200 9979
+INFO 2019-04-10 18:22:24,640 basehttp 154 "GET /docDownload/ HTTP/1.1" 200 9979
+INFO 2019-04-10 18:22:24,813 basehttp 154 "GET /docDownload/ HTTP/1.1" 200 9979
+INFO 2019-04-10 18:22:24,982 basehttp 154 "GET /docDownload/ HTTP/1.1" 200 9979
+WARNING 2019-04-10 18:22:47,024 log 228 Not Found: /docDownload/search.html
+WARNING 2019-04-10 18:22:47,025 basehttp 154 "GET /docDownload/search.html HTTP/1.1" 404 2412
+INFO 2019-04-10 18:26:21,979 basehttp 154 "GET /docDownload/ HTTP/1.1" 200 9976
+INFO 2019-04-10 18:27:54,852 basehttp 154 "GET /docDownload/ HTTP/1.1" 200 9976
+INFO 2019-04-10 18:27:55,919 basehttp 154 "GET /search/ HTTP/1.1" 200 13057
+INFO 2019-04-10 18:27:55,942 basehttp 154 "GET /static/css/news/search.css HTTP/1.1" 200 2803
+INFO 2019-04-10 18:27:59,447 basehttp 154 "GET /search/?q= HTTP/1.1" 200 13057
+INFO 2019-04-10 18:28:02,729 basehttp 154 "GET /search/?q=sadad HTTP/1.1" 200 13057
+INFO 2019-04-10 18:28:15,792 basehttp 154 "GET /search/ HTTP/1.1" 200 13057
+WARNING 2019-04-10 18:28:52,620 log 228 Not Found: /users/login.html
+WARNING 2019-04-10 18:28:52,621 basehttp 154 "GET /users/login.html HTTP/1.1" 404 2560
+WARNING 2019-04-10 18:32:24,243 log 228 Not Found: /users/login.html
+WARNING 2019-04-10 18:32:24,244 basehttp 154 "GET /users/login.html HTTP/1.1" 404 2727
+WARNING 2019-04-10 18:32:58,301 log 228 Not Found: /users/login.html
+WARNING 2019-04-10 18:32:58,302 basehttp 154 "GET /users/login.html HTTP/1.1" 404 2727
+INFO 2019-04-10 18:33:05,936 basehttp 154 "GET / HTTP/1.1" 200 18236
+INFO 2019-04-10 18:33:06,813 basehttp 154 "GET /course/ HTTP/1.1" 200 4896
+INFO 2019-04-10 18:33:07,508 basehttp 154 "GET /docDownload/ HTTP/1.1" 200 9952
+INFO 2019-04-10 18:33:08,509 basehttp 154 "GET /search/ HTTP/1.1" 200 13033
+INFO 2019-04-10 18:33:09,598 basehttp 154 "GET /login/ HTTP/1.1" 200 4498
+INFO 2019-04-10 18:33:09,623 basehttp 154 "GET /static/css/authPro/auth.css HTTP/1.1" 200 3286
+WARNING 2019-04-10 18:33:23,967 log 228 Not Found: /register/
+WARNING 2019-04-10 18:33:23,969 basehttp 154 "GET /register/ HTTP/1.1" 404 2706
+INFO 2019-04-10 18:36:26,679 basehttp 154 "GET /register/ HTTP/1.1" 200 7647
+INFO 2019-04-10 18:36:38,500 basehttp 154 "GET /register/ HTTP/1.1" 200 5260
+INFO 2019-04-10 18:36:38,529 basehttp 154 "GET /static/images/captcha.png HTTP/1.1" 200 4296
+INFO 2019-04-10 18:43:55,304 basehttp 154 "GET /login/ HTTP/1.1" 200 4498
+INFO 2019-04-10 18:43:56,350 basehttp 154 "GET /register/ HTTP/1.1" 200 5260
+INFO 2019-04-11 10:29:45,753 basehttp 154 "GET / HTTP/1.1" 200 18236
+INFO 2019-04-11 10:29:45,841 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-04-11 10:29:45,847 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-04-11 10:29:45,848 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4428
+INFO 2019-04-11 10:29:45,854 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+INFO 2019-04-11 10:29:45,855 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 2421
+INFO 2019-04-11 10:29:45,864 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 1510
+INFO 2019-04-11 10:29:45,871 basehttp 154 "GET /static/images/ui.png HTTP/1.1" 200 108619
+INFO 2019-04-11 10:29:45,882 basehttp 154 "GET /static/images/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-04-11 10:29:45,891 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-04-11 10:29:45,901 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-04-11 10:29:45,905 basehttp 154 "GET /static/images/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-04-11 10:29:45,910 basehttp 154 "GET /static/images/wechat.jpg HTTP/1.1" 200 41182
+INFO 2019-04-11 10:29:45,927 basehttp 154 "GET /static/images/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-04-11 10:29:45,930 basehttp 154 "GET /static/images/zimeiti.png HTTP/1.1" 200 112767
+INFO 2019-04-11 10:29:45,931 basehttp 154 "GET /static/images/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-04-11 10:29:45,945 basehttp 154 "GET /static/images/youxi.png HTTP/1.1" 200 447834
+WARNING 2019-04-11 10:29:46,303 log 228 Not Found: /favicon.ico
+WARNING 2019-04-11 10:29:46,304 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2698
+INFO 2019-04-11 10:29:46,344 basehttp 154 "GET /static/images/dianshang.png HTTP/1.1" 200 342554
+WARNING 2019-04-11 10:29:48,085 log 228 Not Found: /login/
+WARNING 2019-04-11 10:29:48,085 basehttp 154 "GET /login/ HTTP/1.1" 404 2683
+INFO 2019-04-11 10:29:50,362 basehttp 154 "GET / HTTP/1.1" 200 18236
+WARNING 2019-04-11 10:29:50,464 log 228 Not Found: /favicon.ico
+WARNING 2019-04-11 10:29:50,467 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2698
+WARNING 2019-04-11 10:29:55,856 log 228 Not Found: /register/
+WARNING 2019-04-11 10:29:55,857 basehttp 154 "GET /register/ HTTP/1.1" 404 2692
+INFO 2019-04-11 10:30:57,347 basehttp 154 "GET / HTTP/1.1" 200 18236
+INFO 2019-04-11 10:30:57,411 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-04-11 10:30:57,422 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4428
+INFO 2019-04-11 10:30:57,423 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-04-11 10:30:57,427 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+INFO 2019-04-11 10:30:57,565 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 8192
+INFO 2019-04-11 10:30:57,565 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 8192
+INFO 2019-04-11 10:30:58,936 basehttp 154 "GET /login/ HTTP/1.1" 200 4498
+INFO 2019-04-11 10:30:59,038 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4428
+INFO 2019-04-11 10:30:59,039 basehttp 154 "GET /static/css/authPro/auth.css HTTP/1.1" 200 3286
+INFO 2019-04-11 10:30:59,039 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+WARNING 2019-04-11 10:30:59,062 log 228 Not Found: /favicon.ico
+WARNING 2019-04-11 10:30:59,063 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2979
+INFO 2019-04-11 10:31:01,171 basehttp 154 "GET /register/ HTTP/1.1" 200 5260
+INFO 2019-04-11 10:31:01,224 basehttp 154 "GET /static/images/captcha.png HTTP/1.1" 200 4296
+INFO 2019-04-11 10:31:02,561 basehttp 154 "GET /login/ HTTP/1.1" 200 4498
+INFO 2019-04-11 10:31:03,488 basehttp 154 "GET /register/ HTTP/1.1" 200 5260
+INFO 2019-04-11 10:31:05,112 basehttp 154 "GET / HTTP/1.1" 200 18236
+INFO 2019-04-11 10:31:05,160 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-04-11 10:31:05,163 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-04-11 10:31:05,165 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4428
+INFO 2019-04-11 10:31:05,167 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+INFO 2019-04-11 10:31:10,683 basehttp 154 "GET /login/ HTTP/1.1" 200 4498
+INFO 2019-04-11 10:31:10,734 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-04-11 10:36:20,234 basehttp 154 "GET / HTTP/1.1" 200 18236
+INFO 2019-04-11 10:36:20,321 basehttp 154 "GET /static/images/wechat.jpg HTTP/1.1" 200 41182
+INFO 2019-04-11 10:40:50,035 basehttp 154 "GET / HTTP/1.1" 200 18241
+INFO 2019-04-11 10:40:50,056 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-04-11 10:40:50,057 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-04-11 10:40:50,290 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+INFO 2019-04-11 10:40:50,291 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4428
+INFO 2019-04-11 10:40:50,341 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 1510
+INFO 2019-04-11 10:40:50,342 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 2421
+INFO 2019-04-11 10:40:50,345 basehttp 154 "GET /static/images/ui.png HTTP/1.1" 200 108619
+INFO 2019-04-11 10:40:50,377 basehttp 154 "GET /static/images/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-04-11 10:40:50,378 basehttp 154 "GET /static/images/zimeiti.png HTTP/1.1" 200 112767
+INFO 2019-04-11 10:40:50,384 basehttp 154 "GET /static/images/youxi.png HTTP/1.1" 200 447834
+INFO 2019-04-11 10:40:50,385 basehttp 154 "GET /static/images/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-04-11 10:40:50,386 basehttp 154 "GET /static/images/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-04-11 10:40:50,392 basehttp 154 "GET /static/images/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-04-11 10:40:50,411 basehttp 154 "GET /static/images/dianshang.png HTTP/1.1" 200 342554
+INFO 2019-04-11 10:40:50,424 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-04-11 10:40:50,427 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-04-11 10:40:50,442 basehttp 154 "GET /static/images/wechat.jpg HTTP/1.1" 200 41182
+WARNING 2019-04-11 10:40:50,545 log 228 Not Found: /favicon.ico
+WARNING 2019-04-11 10:40:50,546 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3026
+WARNING 2019-04-11 10:40:51,897 log 228 Not Found: /users/login/
+WARNING 2019-04-11 10:40:51,898 basehttp 154 "GET /users/login/ HTTP/1.1" 404 3029
+WARNING 2019-04-11 10:41:07,937 log 228 Not Found: /users/login/
+WARNING 2019-04-11 10:41:07,938 basehttp 154 "GET /users/login/ HTTP/1.1" 404 3029
+WARNING 2019-04-11 10:41:09,747 log 228 Not Found: /users/login/
+WARNING 2019-04-11 10:41:09,748 basehttp 154 "GET /users/login/ HTTP/1.1" 404 3029
+INFO 2019-04-11 10:47:21,611 basehttp 154 "GET /login/ HTTP/1.1" 200 4498
+INFO 2019-04-11 10:47:21,642 basehttp 154 "GET /static/css/authPro/auth.css HTTP/1.1" 200 3286
+INFO 2019-04-11 10:47:23,521 basehttp 154 "GET /register/ HTTP/1.1" 200 5260
+INFO 2019-04-11 10:47:23,548 basehttp 154 "GET /static/images/captcha.png HTTP/1.1" 200 4296
+INFO 2019-04-11 10:47:24,713 basehttp 154 "GET /login/ HTTP/1.1" 200 4498
+INFO 2019-04-11 10:47:33,734 basehttp 154 "GET /docDownload/ HTTP/1.1" 200 9952
+INFO 2019-04-11 10:47:33,757 basehttp 154 "GET /static/css/doc/docDownload.css HTTP/1.1" 200 2121
+INFO 2019-04-11 10:52:47,126 basehttp 154 "GET /login/ HTTP/1.1" 200 4498
+INFO 2019-04-11 10:52:48,061 basehttp 154 "GET /register/ HTTP/1.1" 200 5260
+INFO 2019-04-11 10:52:48,720 basehttp 154 "GET /login/ HTTP/1.1" 200 4498
+INFO 2019-04-11 10:52:49,640 basehttp 154 "GET / HTTP/1.1" 200 18236
+INFO 2019-04-11 10:54:53,768 basehttp 154 "GET / HTTP/1.1" 200 18236
+INFO 2019-04-11 10:54:54,421 basehttp 154 "GET /course/ HTTP/1.1" 200 4896
+INFO 2019-04-11 10:54:54,456 basehttp 154 "GET /static/css/course/course.css HTTP/1.1" 200 1916
+INFO 2019-04-11 10:54:55,506 basehttp 154 "GET /docDownload/ HTTP/1.1" 200 9952
+INFO 2019-04-11 10:54:56,520 basehttp 154 "GET /course/ HTTP/1.1" 200 4896
+INFO 2019-04-11 10:55:00,398 basehttp 154 "GET /docDownload/ HTTP/1.1" 200 9952
+INFO 2019-04-11 10:55:01,109 basehttp 154 "GET /search/ HTTP/1.1" 200 13033
+INFO 2019-04-11 10:55:01,133 basehttp 154 "GET /static/css/news/search.css HTTP/1.1" 200 2803
+INFO 2019-04-11 10:55:07,514 basehttp 154 "GET /login/ HTTP/1.1" 200 4498
+INFO 2019-04-11 10:55:08,268 basehttp 154 "GET /register/ HTTP/1.1" 200 5260
+INFO 2019-04-11 10:55:09,602 basehttp 154 "GET / HTTP/1.1" 200 18236
+INFO 2019-04-11 10:55:13,491 basehttp 154 "GET /register/ HTTP/1.1" 200 5260
+INFO 2019-04-19 14:10:17,625 basehttp 154 "GET / HTTP/1.1" 200 17956
+INFO 2019-04-19 14:10:17,653 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-04-19 14:10:17,666 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-04-19 14:10:19,272 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4428
+INFO 2019-04-19 14:10:19,278 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+INFO 2019-04-19 14:10:19,307 basehttp 154 "GET /static/images/ui.png HTTP/1.1" 200 108619
+INFO 2019-04-19 14:10:19,335 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 2421
+INFO 2019-04-19 14:10:19,360 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 1510
+INFO 2019-04-19 14:10:19,365 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-04-19 14:10:19,368 basehttp 154 "GET /static/images/youxi.png HTTP/1.1" 200 447834
+INFO 2019-04-19 14:10:19,376 basehttp 154 "GET /static/images/zimeiti.png HTTP/1.1" 200 112767
+INFO 2019-04-19 14:10:19,406 basehttp 154 "GET /static/images/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-04-19 14:10:19,410 basehttp 154 "GET /static/images/dianshang.png HTTP/1.1" 200 342554
+INFO 2019-04-19 14:10:19,411 basehttp 154 "GET /static/images/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-04-19 14:10:19,424 basehttp 154 "GET /static/images/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-04-19 14:10:19,426 basehttp 154 "GET /static/images/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-04-19 14:10:19,436 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-04-19 14:10:19,464 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-04-19 14:10:19,467 basehttp 154 "GET /static/images/wechat.jpg HTTP/1.1" 200 41182
+WARNING 2019-04-19 14:10:19,587 log 228 Not Found: /favicon.ico
+WARNING 2019-04-19 14:10:19,589 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3447
+INFO 2019-04-19 14:10:23,101 basehttp 154 "GET /users/login/ HTTP/1.1" 200 4418
+INFO 2019-04-19 14:10:23,133 basehttp 154 "GET /static/css/authPro/auth.css HTTP/1.1" 200 3286
+INFO 2019-04-19 14:10:23,140 basehttp 154 "GET /static/js/users/login.js HTTP/1.1" 200 3782
+INFO 2019-04-19 14:10:47,510 basehttp 154 "POST /users/login/ HTTP/1.1" 200 96
+INFO 2019-04-19 14:10:48,731 basehttp 154 "GET / HTTP/1.1" 200 17956
+INFO 2019-04-19 14:11:21,176 basehttp 154 "GET /users/login/ HTTP/1.1" 200 4418
+INFO 2019-04-19 14:11:28,877 basehttp 154 "POST /users/login/ HTTP/1.1" 200 96
+INFO 2019-04-19 14:11:30,098 basehttp 154 "GET / HTTP/1.1" 200 17956
+INFO 2019-04-19 14:11:58,159 basehttp 154 "GET / HTTP/1.1" 200 17956
+INFO 2019-04-19 14:12:03,765 basehttp 154 "GET /users/login/ HTTP/1.1" 200 4418
+INFO 2019-04-19 14:13:23,659 basehttp 154 "GET /users/login/ HTTP/1.1" 200 4418
+INFO 2019-04-19 14:14:38,178 basehttp 154 "GET / HTTP/1.1" 200 17956
+INFO 2019-04-19 14:14:41,080 basehttp 154 "GET /users/register/ HTTP/1.1" 200 5131
+INFO 2019-04-19 14:14:41,108 basehttp 154 "GET /static/js/users/auth.js HTTP/1.1" 200 10842
+INFO 2019-04-19 14:14:41,155 views 38 image.code:AFYK
+INFO 2019-04-19 14:14:41,156 basehttp 154 "GET /image_codes/019dbdb5-b26b-4fb4-ac26-900852847e1f/ HTTP/1.1" 200 3294
+INFO 2019-04-19 14:14:42,523 basehttp 154 "GET /users/login/ HTTP/1.1" 200 4418
+INFO 2019-04-19 14:14:56,072 basehttp 154 "POST /users/login/ HTTP/1.1" 200 96
+INFO 2019-04-19 14:14:57,286 basehttp 154 "GET /users/register/ HTTP/1.1" 200 5131
+INFO 2019-04-19 14:14:57,335 views 38 image.code:C9PH
+INFO 2019-04-19 14:14:57,335 basehttp 154 "GET /image_codes/ff4a6d19-944a-4f6f-b9e5-9a66c0776ba2/ HTTP/1.1" 200 2974
+INFO 2019-04-19 14:16:57,956 basehttp 154 "GET /users/register/ HTTP/1.1" 200 5131
+INFO 2019-04-19 14:16:58,015 views 38 image.code:MEXW
+INFO 2019-04-19 14:16:58,016 basehttp 154 "GET /image_codes/8c6ccb7a-fb54-4974-83a0-52b3bf7dd021/ HTTP/1.1" 200 3474
+INFO 2019-04-19 14:16:59,435 basehttp 154 "GET /users/login/ HTTP/1.1" 200 4418
+INFO 2019-04-19 14:17:05,796 basehttp 154 "POST /users/login/ HTTP/1.1" 200 96
+INFO 2019-04-19 14:17:07,035 basehttp 154 "GET /users/register/ HTTP/1.1" 200 5191
+INFO 2019-04-19 14:17:07,080 views 38 image.code:NLJP
+INFO 2019-04-19 14:17:07,081 basehttp 154 "GET /image_codes/e17c033d-79fa-4dcf-8dde-9ba04e3f84a9/ HTTP/1.1" 200 3046
+INFO 2019-04-19 14:17:16,079 basehttp 154 "GET /users/logout/ HTTP/1.1" 302 0
+INFO 2019-04-19 14:17:16,287 basehttp 154 "GET /users/login/ HTTP/1.1" 200 4418
+INFO 2019-04-19 14:21:35,307 basehttp 154 "POST /users/login/ HTTP/1.1" 200 96
+INFO 2019-04-19 14:21:36,522 basehttp 154 "GET /users/register/ HTTP/1.1" 200 5317
+INFO 2019-04-19 14:21:36,571 views 38 image.code:OXEG
+INFO 2019-04-19 14:21:36,572 basehttp 154 "GET /image_codes/89877da7-40be-44df-897a-263baab356ce/ HTTP/1.1" 200 3310
+INFO 2019-04-19 14:21:53,874 basehttp 154 "GET /users/logout/ HTTP/1.1" 302 0
+INFO 2019-04-19 14:21:54,079 basehttp 154 "GET /users/login/ HTTP/1.1" 200 4418
+INFO 2019-04-19 14:22:10,041 basehttp 154 "POST /users/login/ HTTP/1.1" 200 96
+INFO 2019-04-19 14:22:11,264 basehttp 154 "GET /users/register/ HTTP/1.1" 200 5317
+INFO 2019-04-19 14:22:11,307 views 38 image.code:DKAB
+INFO 2019-04-19 14:22:11,309 basehttp 154 "GET /image_codes/fc0a0663-03b6-4cfa-a272-7b99de498c23/ HTTP/1.1" 200 3497
+INFO 2019-04-22 10:48:48,521 basehttp 154 "GET / HTTP/1.1" 200 17956
+INFO 2019-04-22 10:48:48,535 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-04-22 10:48:48,539 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-04-22 10:48:49,945 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+INFO 2019-04-22 10:48:49,950 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4428
+INFO 2019-04-22 10:48:49,988 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 2421
+INFO 2019-04-22 10:48:50,002 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-04-22 10:48:50,003 basehttp 154 "GET /static/images/youxi.png HTTP/1.1" 200 447834
+INFO 2019-04-22 10:48:50,003 basehttp 154 "GET /static/images/ui.png HTTP/1.1" 200 108619
+INFO 2019-04-22 10:48:50,018 basehttp 154 "GET /static/images/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-04-22 10:48:50,032 basehttp 154 "GET /static/images/zimeiti.png HTTP/1.1" 200 112767
+INFO 2019-04-22 10:48:50,039 basehttp 154 "GET /static/images/dianshang.png HTTP/1.1" 200 342554
+INFO 2019-04-22 10:48:50,040 basehttp 154 "GET /static/images/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-04-22 10:48:50,041 basehttp 154 "GET /static/images/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-04-22 10:48:50,041 basehttp 154 "GET /static/images/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-04-22 10:48:50,043 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 1510
+INFO 2019-04-22 10:48:50,055 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-04-22 10:48:50,063 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-04-22 10:48:50,067 basehttp 154 "GET /static/images/wechat.jpg HTTP/1.1" 200 41182
+WARNING 2019-04-22 10:48:50,251 log 228 Not Found: /favicon.ico
+WARNING 2019-04-22 10:48:50,252 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3447
+INFO 2019-04-22 10:50:21,379 basehttp 154 "GET /users/login/ HTTP/1.1" 200 4418
+INFO 2019-04-22 10:50:21,427 basehttp 154 "GET /static/css/authPro/auth.css HTTP/1.1" 200 3286
+INFO 2019-04-22 10:50:21,431 basehttp 154 "GET /static/js/users/login.js HTTP/1.1" 200 3782
+INFO 2019-04-22 10:50:34,773 basehttp 154 "POST /users/login/ HTTP/1.1" 200 96
+INFO 2019-04-22 10:50:36,011 basehttp 154 "GET / HTTP/1.1" 200 18142
+INFO 2019-04-22 10:50:41,142 basehttp 154 "GET /users/logout/ HTTP/1.1" 302 0
+INFO 2019-04-22 10:50:41,350 basehttp 154 "GET /users/login/ HTTP/1.1" 200 4418
+INFO 2019-04-22 10:50:50,701 basehttp 154 "POST /users/login/ HTTP/1.1" 200 96
+INFO 2019-04-22 10:50:51,949 basehttp 154 "GET / HTTP/1.1" 200 18016
+INFO 2019-04-22 15:01:09,879 basehttp 154 "GET / HTTP/1.1" 200 17956
+INFO 2019-04-22 15:01:09,901 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-04-22 15:01:09,905 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-04-22 15:01:10,042 basehttp 154 "GET /static/images/ui.png HTTP/1.1" 200 108619
+INFO 2019-04-22 15:01:10,051 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4428
+INFO 2019-04-22 15:01:10,053 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+INFO 2019-04-22 15:01:10,054 basehttp 154 "GET /static/images/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-04-22 15:01:10,109 basehttp 154 "GET /static/images/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-04-22 15:01:10,115 basehttp 154 "GET /static/images/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-04-22 15:01:10,233 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 2421
+INFO 2019-04-22 15:01:10,238 basehttp 154 "GET /static/images/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-04-22 15:01:10,240 basehttp 154 "GET /static/images/zimeiti.png HTTP/1.1" 200 112767
+INFO 2019-04-22 15:01:10,258 basehttp 154 "GET /static/images/youxi.png HTTP/1.1" 200 447834
+INFO 2019-04-22 15:01:10,297 basehttp 154 "GET /static/images/dianshang.png HTTP/1.1" 200 342554
+INFO 2019-04-22 15:01:10,303 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-04-22 15:01:10,316 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 1510
+INFO 2019-04-22 15:01:10,320 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-04-22 15:01:10,356 basehttp 154 "GET /static/images/wechat.jpg HTTP/1.1" 200 41182
+INFO 2019-04-22 15:01:10,357 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+WARNING 2019-04-22 15:01:10,549 log 228 Not Found: /favicon.ico
+WARNING 2019-04-22 15:01:10,550 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3447
+INFO 2019-04-24 11:21:22,033 basehttp 154 "GET / HTTP/1.1" 200 11626
+INFO 2019-04-24 11:21:22,913 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 3213
+ERROR 2019-04-24 11:21:26,114 log 228 Internal Server Error: /users/login/
+Traceback (most recent call last):
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/utils/decorators.py", line 134, in _wrapped_view
+    result = middleware.process_request(request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/middleware/csrf.py", line 200, in process_request
+    csrf_token = self._get_token(request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/middleware/csrf.py", line 171, in _get_token
+    cookie_token = request.COOKIES[settings.CSRF_COOKIE_NAME]
+AttributeError: 'Login' object has no attribute 'COOKIES'
+ERROR 2019-04-24 11:21:26,116 basehttp 154 "GET /users/login/ HTTP/1.1" 500 83807
+INFO 2019-04-24 11:22:58,514 basehttp 154 "GET / HTTP/1.1" 200 11626
+INFO 2019-04-24 11:22:58,843 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 3213
+INFO 2019-04-24 11:23:00,250 basehttp 154 "GET /users/login/ HTTP/1.1" 200 4289
+INFO 2019-04-24 11:23:00,272 basehttp 154 "GET /static/css/authPro/auth.css HTTP/1.1" 200 3286
+INFO 2019-04-24 11:23:00,275 basehttp 154 "GET /static/js/users/login.js HTTP/1.1" 200 3782
+INFO 2019-04-24 11:24:00,483 basehttp 154 "POST /users/login/ HTTP/1.1" 200 96
+INFO 2019-04-24 11:24:01,778 basehttp 154 "GET / HTTP/1.1" 200 11686
+INFO 2019-04-24 11:24:01,851 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 3213
+INFO 2019-04-24 11:32:17,508 basehttp 154 "GET / HTTP/1.1" 200 11626
+INFO 2019-04-24 11:32:17,574 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 3213
+INFO 2019-04-24 11:32:22,113 basehttp 154 "GET /users/login/ HTTP/1.1" 200 4289
+INFO 2019-04-26 16:46:38,549 basehttp 154 "GET /news/ HTTP/1.1" 200 3213
+WARNING 2019-04-26 16:46:38,640 log 228 Not Found: /favicon.ico
+WARNING 2019-04-26 16:46:38,640 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 4116
+INFO 2019-04-26 16:46:40,772 basehttp 154 "GET / HTTP/1.1" 200 10783
+INFO 2019-04-26 16:46:40,802 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-04-26 16:46:40,803 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-04-26 16:46:40,809 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4428
+INFO 2019-04-26 16:46:40,907 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+INFO 2019-04-26 16:46:40,929 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-04-26 16:46:40,930 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 2421
+INFO 2019-04-26 16:46:40,937 basehttp 154 "GET /static/js/news/index.js HTTP/1.1" 200 6980
+INFO 2019-04-26 16:46:40,939 basehttp 154 "GET /media/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-04-26 16:46:40,944 basehttp 154 "GET /media/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-04-26 16:46:40,953 basehttp 154 "GET /media/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-04-26 16:46:40,968 basehttp 154 "GET /static/images/wechat.jpg HTTP/1.1" 200 41182
+INFO 2019-04-26 16:46:40,970 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-04-26 16:46:40,973 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-04-26 16:46:41,101 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 3213
+INFO 2019-04-26 16:46:41,118 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-04-26 16:46:41,336 basehttp 154 "GET /media/python_function.jpg HTTP/1.1" 200 27960
+INFO 2019-04-26 16:46:41,340 basehttp 154 "GET /media/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-04-26 16:46:41,351 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-04-26 16:46:43,513 basehttp 154 "GET /news/884 HTTP/1.1" 301 0
+INFO 2019-04-26 16:46:43,778 basehttp 154 "GET /news/884/ HTTP/1.1" 200 10940
+INFO 2019-04-26 16:46:44,045 basehttp 154 "GET /static/images/avatar.jpeg HTTP/1.1" 200 21328
+INFO 2019-04-26 16:46:44,048 basehttp 154 "GET /static/css/news/news-detail.css HTTP/1.1" 200 2102
+INFO 2019-04-26 16:46:45,852 basehttp 154 "GET / HTTP/1.1" 200 10783
+INFO 2019-04-26 16:46:45,932 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-04-26 16:46:45,936 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 3213
+INFO 2019-04-26 16:46:46,549 basehttp 154 "GET /course/ HTTP/1.1" 200 4616
+INFO 2019-04-26 16:46:46,572 basehttp 154 "GET /static/css/course/course.css HTTP/1.1" 200 1916
+INFO 2019-04-26 16:46:46,586 basehttp 154 "GET /static/images/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-04-26 16:46:53,128 basehttp 154 "GET /docDownload/ HTTP/1.1" 200 9672
+INFO 2019-04-26 16:46:53,160 basehttp 154 "GET /static/css/doc/docDownload.css HTTP/1.1" 200 2121
+INFO 2019-04-26 16:46:54,171 basehttp 154 "GET /search/ HTTP/1.1" 200 12753
+INFO 2019-04-26 16:46:54,200 basehttp 154 "GET /static/css/news/search.css HTTP/1.1" 200 2803
+INFO 2019-04-26 16:46:54,204 basehttp 154 "GET /static/images/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-04-26 16:46:54,210 basehttp 154 "GET /static/images/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-04-26 16:46:54,212 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 1510
+INFO 2019-04-26 16:46:55,908 basehttp 154 "GET /search/?q= HTTP/1.1" 200 12753
+INFO 2019-04-26 16:46:58,970 basehttp 154 "GET /search/?q=asd HTTP/1.1" 200 12753
+INFO 2019-04-26 16:47:04,974 basehttp 154 "GET /users/register/ HTTP/1.1" 200 5002
+INFO 2019-04-26 16:47:05,005 basehttp 154 "GET /static/css/authPro/auth.css HTTP/1.1" 200 3286
+INFO 2019-04-26 16:47:05,007 basehttp 154 "GET /static/js/users/auth.js HTTP/1.1" 200 10842
+INFO 2019-04-26 16:47:05,064 views 38 image.code:WNM4
+INFO 2019-04-26 16:47:05,065 basehttp 154 "GET /image_codes/cd216b40-82af-47f5-9639-46a9290b1e83/ HTTP/1.1" 200 3228
+INFO 2019-04-26 16:47:05,920 basehttp 154 "GET /users/login/ HTTP/1.1" 200 4289
+INFO 2019-04-26 16:47:05,940 basehttp 154 "GET /static/js/users/login.js HTTP/1.1" 200 3782
+INFO 2019-04-26 16:47:07,064 basehttp 154 "GET /users/register/ HTTP/1.1" 200 5002
+INFO 2019-04-26 16:47:07,128 views 38 image.code:5W4Z
+INFO 2019-04-26 16:47:07,129 basehttp 154 "GET /image_codes/7d4ed16c-129c-437a-92f2-9e51e3139148/ HTTP/1.1" 200 3168
+INFO 2019-04-28 09:53:01,484 basehttp 154 "GET /news/221 HTTP/1.1" 301 0
+INFO 2019-04-28 09:53:01,819 basehttp 154 "GET /news/221/ HTTP/1.1" 200 12577
+INFO 2019-04-28 09:53:01,862 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-04-28 09:53:01,862 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-04-28 09:53:01,871 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4428
+INFO 2019-04-28 09:53:01,893 basehttp 154 "GET /static/css/news/news-detail.css HTTP/1.1" 200 2102
+INFO 2019-04-28 09:53:01,904 basehttp 154 "GET /static/images/avatar.jpeg HTTP/1.1" 200 21328
+INFO 2019-04-28 09:53:01,932 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 2421
+INFO 2019-04-28 09:53:01,935 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-04-28 09:53:01,945 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-04-28 09:53:01,966 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-04-28 09:53:01,973 basehttp 154 "GET /static/images/wechat.jpg HTTP/1.1" 200 41182
+WARNING 2019-04-28 09:53:02,218 log 228 Not Found: /favicon.ico
+WARNING 2019-04-28 09:53:02,219 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 4116
+INFO 2019-04-28 09:53:10,047 basehttp 154 "GET /news/ HTTP/1.1" 200 3213
+INFO 2019-04-28 09:53:39,857 basehttp 154 "GET / HTTP/1.1" 200 10783
+INFO 2019-04-28 09:53:40,115 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+INFO 2019-04-28 09:53:40,121 basehttp 154 "GET /static/js/news/index.js HTTP/1.1" 200 6980
+INFO 2019-04-28 09:53:40,153 basehttp 154 "GET /media/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-04-28 09:53:40,154 basehttp 154 "GET /media/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-04-28 09:53:40,155 basehttp 154 "GET /media/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-04-28 09:53:40,204 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 3213
+INFO 2019-04-28 09:53:40,245 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-04-28 09:53:40,493 basehttp 154 "GET /media/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-04-28 09:53:40,500 basehttp 154 "GET /media/python_function.jpg HTTP/1.1" 200 27960
+INFO 2019-04-28 09:53:40,501 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-04-28 09:53:43,364 basehttp 154 "GET /news/884/ HTTP/1.1" 200 10940
+INFO 2019-04-28 09:53:46,256 basehttp 154 "GET /news/918/ HTTP/1.1" 200 11681
+INFO 2019-04-28 09:53:53,195 basehttp 154 "GET /news/918 HTTP/1.1" 301 0
+INFO 2019-04-28 09:53:53,404 basehttp 154 "GET /news/918/ HTTP/1.1" 200 11681
+INFO 2019-04-28 09:54:22,766 basehttp 154 "GET / HTTP/1.1" 200 10783
+INFO 2019-04-28 09:54:23,113 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 3213
+INFO 2019-04-28 09:54:23,114 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-04-28 09:54:53,137 basehttp 154 "GET /news/884 HTTP/1.1" 301 0
+INFO 2019-04-28 09:54:53,354 basehttp 154 "GET /news/884/ HTTP/1.1" 200 10940
+INFO 2019-04-28 10:23:51,529 basehttp 154 "GET / HTTP/1.1" 200 10783
+INFO 2019-04-28 10:23:51,538 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-04-28 10:23:51,540 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-04-28 10:23:52,542 basehttp 154 "GET / HTTP/1.1" 200 10783
+INFO 2019-04-28 10:23:52,588 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4428
+INFO 2019-04-28 10:23:52,590 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+INFO 2019-04-28 10:23:52,599 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-04-28 10:23:52,604 basehttp 154 "GET /media/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-04-28 10:23:52,605 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 2421
+INFO 2019-04-28 10:23:52,605 basehttp 154 "GET /media/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-04-28 10:23:52,643 basehttp 154 "GET /media/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-04-28 10:23:52,649 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-04-28 10:23:52,650 basehttp 154 "GET /static/js/news/index.js HTTP/1.1" 200 6980
+INFO 2019-04-28 10:23:52,653 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-04-28 10:23:52,704 basehttp 154 "GET /static/images/wechat.jpg HTTP/1.1" 200 41182
+INFO 2019-04-28 10:23:52,841 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 3213
+INFO 2019-04-28 10:23:52,842 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-04-28 10:23:53,046 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-04-28 10:23:53,050 basehttp 154 "GET /media/python_function.jpg HTTP/1.1" 200 27960
+INFO 2019-04-28 10:23:53,054 basehttp 154 "GET /media/python_advanced.jpg HTTP/1.1" 200 120059
+WARNING 2019-04-28 10:23:53,096 log 228 Not Found: /favicon.ico
+WARNING 2019-04-28 10:23:53,097 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 4116
+INFO 2019-04-28 10:23:54,242 basehttp 154 "GET /users/register/ HTTP/1.1" 200 5002
+INFO 2019-04-28 10:23:54,266 basehttp 154 "GET /static/css/authPro/auth.css HTTP/1.1" 200 3286
+INFO 2019-04-28 10:23:54,269 basehttp 154 "GET /static/js/users/auth.js HTTP/1.1" 200 10842
+INFO 2019-04-28 10:23:54,368 views 38 image.code:KKSX
+INFO 2019-04-28 10:23:54,368 basehttp 154 "GET /image_codes/bd7cad15-fb4a-4ab9-a84a-1ebdd1a9c61f/ HTTP/1.1" 200 3279
+INFO 2019-04-28 10:24:18,475 basehttp 154 "GET /usernames/tuotuo/ HTTP/1.1" 200 72
+INFO 2019-04-28 10:24:49,991 basehttp 154 "GET /mobiles/18922806854/ HTTP/1.1" 200 75
+INFO 2019-04-28 10:24:56,621 basehttp 154 "GET /mobiles/18922806854/ HTTP/1.1" 200 75
+INFO 2019-04-28 10:24:56,853 views 110 Sms code: 978840
+INFO 2019-04-28 10:24:56,853 views 113 发送短信验证码[正常][mobile:18922806854 sms_code:978840]
+INFO 2019-04-28 10:24:56,854 basehttp 154 "POST /sms_codes/ HTTP/1.1" 200 114
+INFO 2019-04-28 10:25:04,119 basehttp 154 "GET /usernames/tuotuo/ HTTP/1.1" 200 72
+INFO 2019-04-28 10:25:04,337 basehttp 154 "GET /mobiles/18922806854/ HTTP/1.1" 200 75
+INFO 2019-04-28 10:25:04,865 basehttp 154 "POST /users/register/ HTTP/1.1" 200 78
+INFO 2019-04-28 10:25:06,143 basehttp 154 "GET / HTTP/1.1" 200 10845
+INFO 2019-04-28 10:25:06,159 basehttp 154 "GET /media/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-04-28 10:25:06,165 basehttp 154 "GET /media/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-04-28 10:25:06,172 basehttp 154 "GET /media/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-04-28 10:25:06,219 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-04-28 10:25:06,220 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 3213
+INFO 2019-04-28 10:25:06,448 basehttp 154 "GET /media/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-04-28 10:25:06,454 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-04-28 10:25:06,455 basehttp 154 "GET /media/python_function.jpg HTTP/1.1" 200 27960
+INFO 2019-04-30 16:29:46,926 basehttp 154 "GET / HTTP/1.1" 200 10783
+INFO 2019-04-30 16:29:48,537 basehttp 154 "GET / HTTP/1.1" 200 10783
+INFO 2019-04-30 16:29:48,586 basehttp 154 "GET /media/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-04-30 16:29:48,598 basehttp 154 "GET /media/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-04-30 16:29:48,636 basehttp 154 "GET /media/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-04-30 16:29:48,778 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-04-30 16:29:48,788 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 3213
+INFO 2019-04-30 16:29:48,993 basehttp 154 "GET /media/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-04-30 16:29:49,005 basehttp 154 "GET /media/python_function.jpg HTTP/1.1" 200 27960
+INFO 2019-04-30 16:29:49,007 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+WARNING 2019-04-30 16:29:49,017 log 228 Not Found: /favicon.ico
+WARNING 2019-04-30 16:29:49,017 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 4318
+INFO 2019-04-30 16:29:50,262 basehttp 154 "GET /search/ HTTP/1.1" 200 17720
+INFO 2019-04-30 16:29:59,306 basehttp 154 "GET /search/?q=python HTTP/1.1" 200 19338
+INFO 2019-04-30 16:31:21,539 basehttp 154 "GET /search/ HTTP/1.1" 200 17720
+INFO 2019-04-30 16:31:31,695 basehttp 154 "GET /search/?page=7 HTTP/1.1" 200 17956
+INFO 2019-04-30 16:31:40,017 basehttp 154 "GET /search/?page=7 HTTP/1.1" 200 17956
+INFO 2019-04-30 16:31:40,032 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-04-30 16:31:40,036 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-04-30 16:31:40,040 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4428
+INFO 2019-04-30 16:31:40,047 basehttp 154 "GET /static/css/news/search.css HTTP/1.1" 200 3405
+INFO 2019-04-30 16:31:40,061 basehttp 154 "GET /media/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-04-30 16:31:40,068 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-04-30 16:31:40,087 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 2421
+INFO 2019-04-30 16:31:40,099 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-04-30 16:31:40,107 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 1510
+INFO 2019-04-30 16:31:40,115 basehttp 154 "GET /media/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-04-30 16:31:40,117 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-04-30 16:31:40,118 basehttp 154 "GET /static/images/wechat.jpg HTTP/1.1" 200 41182
+INFO 2019-04-30 16:31:40,124 basehttp 154 "GET /media/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-04-30 16:31:40,128 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+WARNING 2019-04-30 16:31:40,171 log 228 Not Found: /favicon.ico
+WARNING 2019-04-30 16:31:40,173 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 4318
+INFO 2019-04-30 16:31:40,701 basehttp 154 "GET /search/?page=7 HTTP/1.1" 200 17956
+INFO 2019-04-30 16:31:40,714 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-04-30 16:31:40,717 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-04-30 16:31:40,723 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4428
+INFO 2019-04-30 16:31:40,726 basehttp 154 "GET /static/css/news/search.css HTTP/1.1" 200 3405
+INFO 2019-04-30 16:31:40,734 basehttp 154 "GET /media/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-04-30 16:31:40,742 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-04-30 16:31:40,744 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 2421
+INFO 2019-04-30 16:31:40,746 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-04-30 16:31:40,748 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 1510
+INFO 2019-04-30 16:31:40,762 basehttp 154 "GET /media/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-04-30 16:31:40,768 basehttp 154 "GET /media/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-04-30 16:31:40,778 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-04-30 16:31:40,782 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-04-30 16:31:40,782 basehttp 154 "GET /static/images/wechat.jpg HTTP/1.1" 200 41182
+WARNING 2019-04-30 16:31:40,810 log 228 Not Found: /favicon.ico
+WARNING 2019-04-30 16:31:40,810 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 4318
+INFO 2019-04-30 16:32:37,473 basehttp 154 "GET /search/?q=python HTTP/1.1" 200 19338
+INFO 2019-04-30 16:32:37,503 basehttp 154 "GET /static/css/news/search.css HTTP/1.1" 304 0
+INFO 2019-04-30 16:32:53,130 basehttp 154 "GET /search/?q=python&page=134 HTTP/1.1" 200 16364
+INFO 2019-04-30 16:33:00,842 basehttp 154 "GET /search/?q=linux HTTP/1.1" 200 19305
+INFO 2019-05-05 14:18:23,275 basehttp 154 "GET / HTTP/1.1" 200 10783
+INFO 2019-05-05 14:18:23,749 basehttp 154 "GET / HTTP/1.1" 200 10783
+INFO 2019-05-05 14:18:23,925 basehttp 154 "GET /media/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-05-05 14:18:23,962 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 304 0
+INFO 2019-05-05 14:18:24,021 basehttp 154 "GET /static/js/news/index.js HTTP/1.1" 304 0
+INFO 2019-05-05 14:18:24,034 basehttp 154 "GET /media/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-05-05 14:18:24,034 basehttp 154 "GET /media/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-05-05 14:18:24,270 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-05-05 14:18:24,300 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 3213
+INFO 2019-05-05 14:18:24,485 basehttp 154 "GET /media/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-05-05 14:18:24,495 basehttp 154 "GET /media/python_function.jpg HTTP/1.1" 200 27960
+INFO 2019-05-05 14:18:24,496 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+WARNING 2019-05-05 14:18:24,507 log 228 Not Found: /favicon.ico
+WARNING 2019-05-05 14:18:24,508 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 4318
+INFO 2019-05-05 14:18:26,165 basehttp 154 "GET /search/ HTTP/1.1" 200 17720
+INFO 2019-05-05 14:18:26,182 basehttp 154 "GET /static/css/news/search.css HTTP/1.1" 304 0
+INFO 2019-05-05 14:18:30,168 basehttp 154 "GET /search/?q=linux HTTP/1.1" 200 9142
+INFO 2019-05-05 14:18:34,629 basehttp 154 "GET /search/?q=python HTTP/1.1" 200 9142
+INFO 2019-05-05 14:24:14,948 basehttp 154 "GET /search/?q=python HTTP/1.1" 200 19338
+INFO 2019-05-05 14:54:39,275 basehttp 154 "GET /docDownload/ HTTP/1.1" 200 9672
+INFO 2019-05-05 14:54:39,321 basehttp 154 "GET /static/css/doc/docDownload.css HTTP/1.1" 200 2121
+INFO 2019-05-07 10:11:31,253 basehttp 154 "GET /search/?q=python HTTP/1.1" 200 19194
+INFO 2019-05-07 10:11:34,527 basehttp 154 "GET /search/?q=asd HTTP/1.1" 200 9134
+INFO 2019-05-07 10:11:39,740 basehttp 154 "GET /search/?q=linux HTTP/1.1" 200 17688
+INFO 2019-05-07 10:47:11,170 basehttp 154 "GET / HTTP/1.1" 200 10775
+INFO 2019-05-07 10:47:11,866 basehttp 154 "GET / HTTP/1.1" 200 10775
+INFO 2019-05-07 10:47:11,913 basehttp 154 "GET /media/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-05-07 10:47:11,929 basehttp 154 "GET /media/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-05-07 10:47:11,948 basehttp 154 "GET /media/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-05-07 10:47:12,106 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 3213
+INFO 2019-05-07 10:47:12,122 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-05-07 10:47:12,352 basehttp 154 "GET /media/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-05-07 10:47:12,361 basehttp 154 "GET /media/python_function.jpg HTTP/1.1" 200 27960
+INFO 2019-05-07 10:47:12,365 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+WARNING 2019-05-07 10:47:12,404 log 228 Not Found: /favicon.ico
+WARNING 2019-05-07 10:47:12,405 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 4246
+INFO 2019-05-07 10:47:13,714 basehttp 154 "GET /search/ HTTP/1.1" 200 17697
+INFO 2019-05-07 10:47:21,554 basehttp 154 "GET /search/?q=ubantu HTTP/1.1" 200 9131
+INFO 2019-05-07 10:47:26,633 basehttp 154 "GET /search/?q=a HTTP/1.1" 200 9131
+INFO 2019-05-07 10:47:28,839 basehttp 154 "GET /search/?q=a HTTP/1.1" 200 9131
+INFO 2019-05-07 10:47:31,712 basehttp 154 "GET /search/?q=python HTTP/1.1" 200 19327
+INFO 2019-05-07 11:00:41,600 basehttp 154 "GET /doc/ HTTP/1.1" 200 11021
+INFO 2019-05-07 11:00:41,618 basehttp 154 "GET /static/css/doc/docDownload.css HTTP/1.1" 304 0
+INFO 2019-05-07 11:00:41,624 basehttp 154 "GET /media/doc_banner_1.jpg HTTP/1.1" 200 51898
+INFO 2019-05-07 11:00:41,633 basehttp 154 "GET /media/hard_way_to_learn_python.jpg HTTP/1.1" 200 114185
+INFO 2019-05-07 11:00:41,640 basehttp 154 "GET /media/%E5%83%8F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%B8%80%E6%A0%B7%E6%80%9D%E8%80%83Python.jpg HTTP/1.1" 200 44525
+INFO 2019-05-07 11:00:41,651 basehttp 154 "GET /media/Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B.jpg HTTP/1.1" 200 21302
+INFO 2019-05-07 11:00:41,658 basehttp 154 "GET /media/Python_Cookbook_%E7%AC%AC%E4%B8%89%E7%89%88.jpg HTTP/1.1" 200 18404
+INFO 2019-05-07 11:00:41,661 basehttp 154 "GET /media/django%E9%A1%B9%E7%9B%AE%E7%8F%AD_%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D.jpg HTTP/1.1" 200 158750
+INFO 2019-05-07 11:00:52,336 basehttp 154 "GET /media/%E7%AC%A8%E5%8A%9E%E6%B3%95%E5%AD%A6python.pdf HTTP/1.1" 200 1774349
+INFO 2019-05-07 11:00:53,019 basehttp 154 "GET /doc/2/ HTTP/1.1" 200 1774349
+INFO 2019-05-07 11:01:10,654 basehttp 154 "GET /media/%E5%83%8F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%B8%80%E6%A0%B7%E6%80%9D%E8%80%83Python.pdf HTTP/1.1" 200 51105370
+INFO 2019-05-07 11:01:11,353 basehttp 154 "GET /doc/3/ HTTP/1.1" 200 51105370
+INFO 2019-05-20 10:49:58,193 basehttp 154 "GET / HTTP/1.1" 200 10901
+INFO 2019-05-20 10:49:58,475 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-05-20 10:49:58,477 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 3266
+INFO 2019-05-20 10:50:03,494 basehttp 154 "GET /admin/ HTTP/1.1" 200 11569
+INFO 2019-05-20 10:50:06,748 basehttp 154 "GET /admin/news/ HTTP/1.1" 200 20361
+INFO 2019-05-20 10:50:06,783 basehttp 154 "GET /static/js/admin/news/news_manage.js HTTP/1.1" 200 3039
+INFO 2019-05-20 10:50:18,107 basehttp 154 "GET /admin/news/ HTTP/1.1" 200 20335
+INFO 2019-05-20 10:50:21,993 basehttp 154 "DELETE /admin/news/1175/ HTTP/1.1" 200 79
+INFO 2019-05-20 10:52:53,922 basehttp 154 "GET /admin/news/pub/ HTTP/1.1" 200 16404
+INFO 2019-05-20 10:52:54,215 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
+INFO 2019-05-20 10:53:43,044 basehttp 154 "POST /admin/news/pub/ HTTP/1.1" 200 78
+INFO 2019-05-20 10:53:44,286 basehttp 154 "GET /admin/news/pub/ HTTP/1.1" 200 16404
+INFO 2019-05-20 10:53:44,436 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
+INFO 2019-05-20 10:55:19,474 basehttp 154 "GET / HTTP/1.1" 200 10901
+INFO 2019-05-20 10:55:19,543 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-05-20 10:55:19,546 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 2852
+INFO 2019-05-20 10:55:22,626 basehttp 154 "GET /news/1175/ HTTP/1.1" 200 9369
+INFO 2019-05-20 15:11:22,701 basehttp 154 "GET / HTTP/1.1" 200 10841
+INFO 2019-05-20 15:11:22,993 basehttp 154 "GET /media/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-05-20 15:11:22,994 basehttp 154 "GET /media/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-05-20 15:11:23,207 basehttp 154 "GET / HTTP/1.1" 200 10841
+INFO 2019-05-20 15:11:23,463 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-05-20 15:11:23,466 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 2852
+INFO 2019-05-20 15:11:23,687 basehttp 154 "GET /media/python_function.jpg HTTP/1.1" 200 27960
+INFO 2019-05-20 15:11:23,694 basehttp 154 "GET /media/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-05-20 15:11:23,767 basehttp 154 "GET /media/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-05-20 15:11:23,768 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-05-20 15:11:26,224 basehttp 154 "GET /admin/ HTTP/1.1" 200 11604
+INFO 2019-05-20 15:11:30,612 basehttp 154 "GET /admin/docs/ HTTP/1.1" 200 14319
+INFO 2019-05-20 15:11:30,711 basehttp 154 "GET /static/js/admin/doc/docs_manage.js HTTP/1.1" 200 2118
+INFO 2019-05-20 15:11:32,677 basehttp 154 "GET /admin/docs/pub/ HTTP/1.1" 200 14689
+INFO 2019-05-20 15:11:32,854 basehttp 154 "GET /static/js/admin/doc/docs_pub.js HTTP/1.1" 200 6905
+INFO 2019-05-20 15:11:32,968 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
+INFO 2019-05-20 15:11:34,216 basehttp 154 "GET /admin/docs/ HTTP/1.1" 200 14319
+INFO 2019-05-20 15:11:35,724 basehttp 154 "GET /admin/docs/2/ HTTP/1.1" 200 15044
+INFO 2019-05-20 15:11:35,805 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
+INFO 2019-05-20 15:11:37,337 basehttp 154 "GET /admin/docs/pub/ HTTP/1.1" 200 14689
+INFO 2019-05-20 15:11:37,584 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
+INFO 2019-05-20 15:11:59,023 basehttp 154 "POST /admin/news/images/ HTTP/1.1" 200 99
+INFO 2019-05-20 15:13:30,920 basehttp 154 "POST /admin/news/images/ HTTP/1.1" 200 168
+INFO 2019-05-20 15:14:00,512 basehttp 154 "POST /admin/docs/files/ HTTP/1.1" 200 99
+INFO 2019-05-20 16:03:30,683 basehttp 154 "GET / HTTP/1.1" 200 10841
+INFO 2019-05-20 16:03:30,710 basehttp 154 "GET /media/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-05-20 16:03:30,715 basehttp 154 "GET /media/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-05-20 16:03:31,206 basehttp 154 "GET / HTTP/1.1" 200 10841
+INFO 2019-05-20 16:03:31,436 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-05-20 16:03:31,441 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 2852
+INFO 2019-05-20 16:03:31,682 basehttp 154 "GET /media/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-05-20 16:03:31,697 basehttp 154 "GET /media/python_function.jpg HTTP/1.1" 200 27960
+INFO 2019-05-20 16:03:31,706 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-05-20 16:03:31,709 basehttp 154 "GET /media/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-05-20 16:03:34,725 basehttp 154 "GET /admin/ HTTP/1.1" 200 11604
+INFO 2019-05-20 16:03:37,010 basehttp 154 "GET /admin/docs/ HTTP/1.1" 200 14319
+INFO 2019-05-20 16:03:38,676 basehttp 154 "GET /admin/docs/pub/ HTTP/1.1" 200 14689
+INFO 2019-05-20 16:03:38,783 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
+INFO 2019-05-20 16:04:47,801 basehttp 154 "POST /admin/news/images/ HTTP/1.1" 200 168
+INFO 2019-05-20 16:05:01,389 basehttp 154 "GET / HTTP/1.1" 200 10841
+INFO 2019-05-20 16:05:01,692 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 2852
+INFO 2019-05-20 16:05:01,693 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-05-20 16:05:02,900 basehttp 154 "GET /users/login/ HTTP/1.1" 200 4373
+INFO 2019-05-20 16:05:08,095 basehttp 154 "POST /users/login/ HTTP/1.1" 200 96
+INFO 2019-05-20 16:05:09,322 basehttp 154 "GET / HTTP/1.1" 200 10901
+INFO 2019-05-20 16:05:09,376 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-05-20 16:05:09,378 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 2852
+INFO 2019-05-20 16:05:11,118 basehttp 154 "GET /admin/ HTTP/1.1" 200 11595
+INFO 2019-05-20 16:05:14,641 basehttp 154 "GET /admin/docs/pub/ HTTP/1.1" 200 14680
+INFO 2019-05-20 16:05:14,958 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
+INFO 2019-05-20 16:05:21,794 basehttp 154 "POST /admin/news/images/ HTTP/1.1" 200 168
+INFO 2019-05-20 16:05:40,927 basehttp 154 "POST /admin/docs/files/ HTTP/1.1" 200 167
+INFO 2019-05-20 16:05:42,970 basehttp 154 "POST /admin/docs/pub/ HTTP/1.1" 200 97
+INFO 2019-05-20 16:05:57,391 basehttp 154 "POST /admin/docs/pub/ HTTP/1.1" 200 97
+INFO 2019-05-20 16:07:07,519 basehttp 154 "POST /admin/docs/pub/ HTTP/1.1" 200 97
+INFO 2019-05-20 16:08:51,705 basehttp 154 "GET /admin/docs/pub/ HTTP/1.1" 200 14680
+INFO 2019-05-20 16:08:51,989 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
+INFO 2019-05-20 16:09:07,525 basehttp 154 "POST /admin/news/images/ HTTP/1.1" 200 168
+INFO 2019-05-20 16:09:23,210 basehttp 154 "POST /admin/docs/files/ HTTP/1.1" 200 167
+INFO 2019-05-20 16:09:24,805 basehttp 154 "POST /admin/docs/pub/ HTTP/1.1" 200 97
+INFO 2019-05-20 16:09:40,487 basehttp 154 "POST /admin/docs/pub/ HTTP/1.1" 200 97
+INFO 2019-05-20 16:10:09,923 basehttp 154 "POST /admin/docs/pub/ HTTP/1.1" 200 97
+INFO 2019-05-20 16:10:12,312 basehttp 154 "POST /admin/docs/pub/ HTTP/1.1" 200 97
+INFO 2019-05-20 16:18:26,369 basehttp 154 "POST /admin/docs/pub/ HTTP/1.1" 200 78
+INFO 2019-05-20 16:18:29,101 basehttp 154 "GET /admin/docs/ HTTP/1.1" 200 14679
+INFO 2019-05-20 16:18:33,298 basehttp 154 "GET / HTTP/1.1" 200 10901
+INFO 2019-05-20 16:18:33,326 basehttp 154 "GET /media/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-05-20 16:18:33,347 basehttp 154 "GET /media/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-05-20 16:18:33,415 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-05-20 16:18:33,419 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 2852
+INFO 2019-05-20 16:18:33,651 basehttp 154 "GET /media/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-05-20 16:18:33,665 basehttp 154 "GET /media/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-05-20 16:18:33,669 basehttp 154 "GET /media/python_function.jpg HTTP/1.1" 200 27960
+INFO 2019-05-20 16:18:33,677 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-05-20 16:18:35,141 basehttp 154 "GET /doc/ HTTP/1.1" 200 11672
+INFO 2019-05-20 16:18:35,164 basehttp 154 "GET /static/css/doc/docDownload.css HTTP/1.1" 304 0
+INFO 2019-05-20 16:18:35,168 basehttp 154 "GET /media/doc_banner_1.jpg HTTP/1.1" 200 51898
+INFO 2019-05-20 16:18:35,176 basehttp 154 "GET /media/%E5%83%8F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%B8%80%E6%A0%B7%E6%80%9D%E8%80%83Python.jpg HTTP/1.1" 200 44525
+INFO 2019-05-20 16:18:35,183 basehttp 154 "GET /media/Python_Cookbook_%E7%AC%AC%E4%B8%89%E7%89%88.jpg HTTP/1.1" 200 18404
+INFO 2019-05-20 16:18:35,186 basehttp 154 "GET /media/hard_way_to_learn_python.jpg HTTP/1.1" 200 114185
+INFO 2019-05-20 16:18:35,189 basehttp 154 "GET /media/Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B.jpg HTTP/1.1" 200 21302
+INFO 2019-05-20 16:18:35,195 basehttp 154 "GET /media/django%E9%A1%B9%E7%9B%AE%E7%8F%AD_%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D.jpg HTTP/1.1" 200 158750
+INFO 2019-05-20 16:18:43,929 views 35 获取文档内容出现异常：
+Failed to parse: 192.168.2.242:8000http:
+WARNING 2019-05-20 16:18:43,933 log 228 Not Found: /doc/7/
+WARNING 2019-05-20 16:18:43,933 basehttp 154 "GET /doc/7/ HTTP/1.1" 404 1715
+WARNING 2019-05-20 16:18:43,994 log 228 Not Found: /favicon.ico
+WARNING 2019-05-20 16:18:43,995 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 4290
+INFO 2019-05-20 16:18:47,779 basehttp 154 "GET /media/django%E9%A1%B9%E7%9B%AE%E7%8F%AD_%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D2.doc HTTP/1.1" 200 137728
+INFO 2019-05-20 16:18:47,812 basehttp 154 "GET /doc/6/ HTTP/1.1" 200 137728
+INFO 2019-05-20 16:18:50,187 views 35 获取文档内容出现异常：
+Failed to parse: 192.168.2.242:8000http:
+WARNING 2019-05-20 16:18:50,191 log 228 Not Found: /doc/7/
+WARNING 2019-05-20 16:18:50,193 basehttp 154 "GET /doc/7/ HTTP/1.1" 404 1715
+INFO 2019-05-20 16:19:59,510 views 35 获取文档内容出现异常：
+Failed to parse: 192.168.2.242:8000http:
+WARNING 2019-05-20 16:19:59,512 log 228 Not Found: /doc/7/
+WARNING 2019-05-20 16:19:59,513 basehttp 154 "GET /doc/7/ HTTP/1.1" 404 1715
+INFO 2019-05-20 17:09:01,840 basehttp 154 "GET / HTTP/1.1" 200 10841
+INFO 2019-05-20 17:09:01,896 basehttp 154 "GET /media/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-05-20 17:09:01,926 basehttp 154 "GET /media/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-05-20 17:09:02,481 basehttp 154 "GET / HTTP/1.1" 200 10841
+INFO 2019-05-20 17:09:02,689 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 2852
+INFO 2019-05-20 17:09:02,704 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-05-20 17:09:02,933 basehttp 154 "GET /media/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-05-20 17:09:02,938 basehttp 154 "GET /media/python_function.jpg HTTP/1.1" 200 27960
+INFO 2019-05-20 17:09:02,958 basehttp 154 "GET /media/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-05-20 17:09:02,960 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-05-20 17:09:05,540 basehttp 154 "GET /admin/ HTTP/1.1" 200 11636
+INFO 2019-05-20 17:09:11,987 basehttp 154 "GET /admin/docs/ HTTP/1.1" 200 14720
+INFO 2019-05-20 17:09:52,026 basehttp 154 "GET /admin/docs/2/ HTTP/1.1" 200 15076
+INFO 2019-05-20 17:09:52,139 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
+INFO 2019-05-20 17:09:55,511 basehttp 154 "GET /admin/courses/ HTTP/1.1" 200 14586
+INFO 2019-05-20 17:09:55,716 basehttp 154 "GET /static/js/admin/course/courses_manage.js HTTP/1.1" 200 2140
+INFO 2019-05-20 17:09:56,947 basehttp 154 "GET /admin/courses/1/ HTTP/1.1" 200 18001
+INFO 2019-05-20 17:09:56,965 basehttp 154 "GET /static/js/admin/course/courses_pub.js HTTP/1.1" 200 9134
+INFO 2019-05-20 17:09:56,979 basehttp 154 "GET /static/node_modules/%40baiducloud/sdk/dist/baidubce-sdk.bundle.min.js HTTP/1.1" 200 558429
+INFO 2019-05-20 17:09:57,101 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
+INFO 2019-05-20 17:09:59,453 basehttp 154 "GET /admin/courses/pub/ HTTP/1.1" 200 17683
+INFO 2019-05-20 17:09:59,557 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
+INFO 2019-05-20 17:10:01,561 basehttp 154 "GET /admin/courses/ HTTP/1.1" 200 14586
+INFO 2019-05-20 17:10:04,285 basehttp 154 "GET /admin/courses/pub/ HTTP/1.1" 200 17683
+INFO 2019-05-20 17:10:04,370 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
+INFO 2019-05-20 17:13:21,103 basehttp 154 "POST /admin/news/images/ HTTP/1.1" 200 168
+INFO 2019-05-20 17:16:54,611 basehttp 154 "POST /admin/news/images/ HTTP/1.1" 200 168
+ERROR 2019-05-20 17:17:59,919 log 228 Internal Server Error: /admin/courses/pub/
+Traceback (most recent call last):
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/beta/py/django/dj_web/mysite/apps/admin/views.py", line 659, in post
+    form = forms.CoursesPubForm(data=dict_data)
+NameError: name 'forms' is not defined
+ERROR 2019-05-20 17:17:59,921 basehttp 154 "POST /admin/courses/pub/ HTTP/1.1" 500 15944
+INFO 2019-05-20 17:18:11,672 basehttp 154 "GET / HTTP/1.1" 200 10841
+INFO 2019-05-20 17:18:11,983 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-05-20 17:18:11,987 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 2852
+INFO 2019-05-20 17:18:13,234 basehttp 154 "GET /users/login/ HTTP/1.1" 200 4373
+INFO 2019-05-20 17:18:18,603 basehttp 154 "POST /users/login/ HTTP/1.1" 200 96
+INFO 2019-05-20 17:18:19,861 basehttp 154 "GET / HTTP/1.1" 200 10901
+INFO 2019-05-20 17:18:19,913 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-05-20 17:18:19,916 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 2852
+INFO 2019-05-20 17:18:21,604 basehttp 154 "GET /admin/ HTTP/1.1" 200 11627
+INFO 2019-05-20 17:18:24,418 basehttp 154 "GET /admin/courses/ HTTP/1.1" 200 14577
+INFO 2019-05-20 17:18:24,948 basehttp 154 "GET /admin/courses/pub/ HTTP/1.1" 200 17674
+INFO 2019-05-20 17:18:24,982 basehttp 154 "GET /static/js/admin/course/courses_pub.js HTTP/1.1" 304 0
+INFO 2019-05-20 17:18:25,267 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
+INFO 2019-05-20 17:18:33,004 basehttp 154 "POST /admin/news/images/ HTTP/1.1" 200 168
+INFO 2019-05-20 17:21:11,955 basehttp 154 "GET /admin/courses/pub/ HTTP/1.1" 200 17674
+INFO 2019-05-20 17:21:11,971 basehttp 154 "GET /static/js/admin/course/courses_pub.js HTTP/1.1" 304 0
+INFO 2019-05-20 17:21:12,231 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
+INFO 2019-05-20 17:21:35,684 basehttp 154 "POST /admin/news/images/ HTTP/1.1" 200 168
+ERROR 2019-05-20 17:23:42,936 log 228 Internal Server Error: /admin/courses/pub/
+Traceback (most recent call last):
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/beta/py/django/dj_web/mysite/apps/admin/views.py", line 659, in post
+    form = forms.CoursesPubForm(data=dict_data)
+NameError: name 'forms' is not defined
+ERROR 2019-05-20 17:23:42,938 basehttp 154 "POST /admin/courses/pub/ HTTP/1.1" 500 16026
+ERROR 2019-05-20 17:24:13,380 log 228 Internal Server Error: /admin/courses/pub/
+Traceback (most recent call last):
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/beta/py/django/dj_web/mysite/apps/admin/views.py", line 659, in post
+    form = forms.CoursesPubForm(data=dict_data)
+NameError: name 'forms' is not defined
+ERROR 2019-05-20 17:24:13,381 basehttp 154 "POST /admin/courses/pub/ HTTP/1.1" 500 16026
+INFO 2019-05-20 17:25:00,549 basehttp 154 "POST /admin/courses/pub/ HTTP/1.1" 200 78
+INFO 2019-05-20 17:25:02,902 basehttp 154 "GET /admin/courses/ HTTP/1.1" 200 14975
+INFO 2019-05-20 17:25:07,600 basehttp 154 "GET / HTTP/1.1" 200 10901
+INFO 2019-05-20 17:25:07,630 basehttp 154 "GET /media/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-05-20 17:25:07,639 basehttp 154 "GET /media/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-05-20 17:25:08,060 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-05-20 17:25:08,068 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 2852
+INFO 2019-05-20 17:25:08,320 basehttp 154 "GET /media/python_function.jpg HTTP/1.1" 200 27960
+INFO 2019-05-20 17:25:08,321 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-05-20 17:25:08,321 basehttp 154 "GET /media/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-05-20 17:25:08,323 basehttp 154 "GET /media/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-05-20 17:25:09,641 basehttp 154 "GET /course/ HTTP/1.1" 200 7645
+INFO 2019-05-20 17:25:10,898 basehttp 154 "GET /course/6/ HTTP/1.1" 200 8107
+INFO 2019-05-20 17:25:10,922 basehttp 154 "GET /media/panda.jpg HTTP/1.1" 200 53500
+INFO 2019-05-20 17:25:10,927 basehttp 154 "GET /static/js/course/course_detail.js HTTP/1.1" 200 464
+INFO 2019-05-20 17:25:10,927 basehttp 154 "GET /static/css/course/course-detail.css HTTP/1.1" 200 2193
+INFO 2019-05-20 17:27:00,245 basehttp 154 "GET /course/6/ HTTP/1.1" 200 7544
+INFO 2019-05-20 17:27:03,804 basehttp 154 "GET /course HTTP/1.1" 301 0
+INFO 2019-05-20 17:27:04,035 basehttp 154 "GET /course/ HTTP/1.1" 200 7037
+INFO 2019-05-20 17:27:08,768 basehttp 154 "GET / HTTP/1.1" 200 10901
+INFO 2019-05-20 17:27:12,798 basehttp 154 "GET /admin/ HTTP/1.1" 200 11627
+INFO 2019-05-20 17:27:15,177 basehttp 154 "GET /admin/courses/ HTTP/1.1" 200 14577
+INFO 2019-05-20 17:27:15,874 basehttp 154 "GET /admin/courses/pub/ HTTP/1.1" 200 17674
+INFO 2019-05-20 17:27:15,898 basehttp 154 "GET /static/js/admin/course/courses_pub.js HTTP/1.1" 304 0
+INFO 2019-05-20 17:27:16,152 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
+INFO 2019-05-20 17:27:45,621 basehttp 154 "POST /admin/news/images/ HTTP/1.1" 200 168
+INFO 2019-05-20 17:39:47,692 basehttp 154 "POST /admin/courses/pub/ HTTP/1.1" 200 78
+INFO 2019-05-20 17:39:49,120 basehttp 154 "GET /admin/courses/ HTTP/1.1" 200 14975
+INFO 2019-05-20 17:40:24,569 basehttp 154 "GET / HTTP/1.1" 200 10901
+INFO 2019-05-20 17:40:24,605 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 304 0
+INFO 2019-05-20 17:40:24,907 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-05-20 17:40:24,915 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 2852
+INFO 2019-05-20 17:40:33,120 basehttp 154 "GET /course/ HTTP/1.1" 200 7645
+INFO 2019-05-20 17:40:34,121 basehttp 154 "GET /course/7/ HTTP/1.1" 200 7984
+INFO 2019-05-20 17:40:39,173 basehttp 154 "GET / HTTP/1.1" 200 10901
+INFO 2019-05-20 17:40:39,541 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-05-20 17:40:39,548 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 2852
+INFO 2019-05-20 17:53:40,949 basehttp 154 "GET /news/?tag_id=0&page=2 HTTP/1.1" 200 3285
+INFO 2019-05-20 17:53:42,042 basehttp 154 "GET /news/?tag_id=0&page=3 HTTP/1.1" 200 3023
+INFO 2019-05-20 17:53:42,793 basehttp 154 "GET /news/?tag_id=0&page=4 HTTP/1.1" 200 3112
+INFO 2019-05-20 17:53:43,428 basehttp 154 "GET /news/?tag_id=0&page=5 HTTP/1.1" 200 2609
+INFO 2019-05-20 17:53:44,049 basehttp 154 "GET /news/?tag_id=0&page=6 HTTP/1.1" 200 2621
+INFO 2019-05-20 17:53:44,639 basehttp 154 "GET /news/?tag_id=0&page=7 HTTP/1.1" 200 2626
+INFO 2019-05-20 17:53:45,271 basehttp 154 "GET /news/?tag_id=0&page=8 HTTP/1.1" 200 3076
+INFO 2019-05-20 17:53:45,875 basehttp 154 "GET /news/?tag_id=0&page=9 HTTP/1.1" 200 2755
+INFO 2019-05-20 17:53:46,442 basehttp 154 "GET /news/?tag_id=0&page=10 HTTP/1.1" 200 2904
+INFO 2019-05-20 17:53:47,143 basehttp 154 "GET /news/?tag_id=0&page=11 HTTP/1.1" 200 3053
+INFO 2019-05-20 17:53:47,738 basehttp 154 "GET /news/?tag_id=0&page=12 HTTP/1.1" 200 2728
+INFO 2019-05-20 17:53:48,315 basehttp 154 "GET /news/?tag_id=0&page=13 HTTP/1.1" 200 2968
+INFO 2019-05-20 17:53:48,929 basehttp 154 "GET /news/?tag_id=0&page=14 HTTP/1.1" 200 2917
+INFO 2019-05-20 17:53:49,537 basehttp 154 "GET /news/?tag_id=0&page=15 HTTP/1.1" 200 2741
+INFO 2019-05-20 17:53:51,142 basehttp 154 "GET /news/?tag_id=0&page=16 HTTP/1.1" 200 2947
+INFO 2019-05-20 17:53:51,833 basehttp 154 "GET /news/?tag_id=0&page=17 HTTP/1.1" 200 2828
+INFO 2019-05-20 17:53:52,489 basehttp 154 "GET /news/?tag_id=0&page=18 HTTP/1.1" 200 3092
+INFO 2019-05-20 17:53:53,156 basehttp 154 "GET /news/?tag_id=0&page=19 HTTP/1.1" 200 2908
+INFO 2019-05-20 17:53:53,844 basehttp 154 "GET /news/?tag_id=0&page=20 HTTP/1.1" 200 3075
+INFO 2019-05-20 17:53:54,476 basehttp 154 "GET /news/?tag_id=0&page=21 HTTP/1.1" 200 2985
+INFO 2019-05-20 17:53:55,484 basehttp 154 "GET /news/?tag_id=0&page=22 HTTP/1.1" 200 2957
+INFO 2019-05-20 17:53:57,790 basehttp 154 "GET /news/?tag_id=0&page=23 HTTP/1.1" 200 3021
+INFO 2019-05-20 17:53:58,362 basehttp 154 "GET /news/?tag_id=0&page=24 HTTP/1.1" 200 2542
+INFO 2019-05-20 17:54:21,498 basehttp 154 "GET /news/?tag_id=0&page=25 HTTP/1.1" 200 2696
+INFO 2019-05-20 17:54:22,170 basehttp 154 "GET /news/?tag_id=0&page=26 HTTP/1.1" 200 2915
+INFO 2019-05-20 18:54:54,016 basehttp 154 "GET / HTTP/1.1" 200 10841
+INFO 2019-05-20 18:54:54,090 basehttp 154 "GET /media/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-05-20 18:54:54,092 basehttp 154 "GET /media/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-05-20 18:54:54,917 basehttp 154 "GET / HTTP/1.1" 200 10841
+INFO 2019-05-20 18:54:55,077 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-05-20 18:54:55,080 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 2852
+INFO 2019-05-20 18:54:55,288 basehttp 154 "GET /media/python_function.jpg HTTP/1.1" 200 27960
+INFO 2019-05-20 18:54:55,292 basehttp 154 "GET /media/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-05-20 18:54:55,297 basehttp 154 "GET /media/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-05-20 18:54:55,300 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-05-20 18:54:57,738 basehttp 154 "GET /admin/ HTTP/1.1" 200 11636
+INFO 2019-05-20 18:55:01,338 basehttp 154 "GET /admin/news HTTP/1.1" 301 0
+INFO 2019-05-20 18:55:01,587 basehttp 154 "GET /admin/news/ HTTP/1.1" 200 20402
+INFO 2019-05-20 18:55:01,828 basehttp 154 "GET /static/js/admin/news/news_manage.js HTTP/1.1" 304 0
+WARNING 2019-05-20 18:55:15,542 log 228 Not Found: /admin/news/news_banner.html
+WARNING 2019-05-20 18:55:15,544 basehttp 154 "GET /admin/news/news_banner.html HTTP/1.1" 404 7962
+WARNING 2019-05-20 18:55:15,612 log 228 Not Found: /favicon.ico
+WARNING 2019-05-20 18:55:15,613 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 4290
+INFO 2019-05-20 18:56:06,200 basehttp 154 "GET /admin/banners HTTP/1.1" 301 0
+INFO 2019-05-20 18:56:06,436 basehttp 154 "GET /admin/banners/ HTTP/1.1" 200 12660
+WARNING 2019-05-20 18:56:06,674 basehttp 154 "GET /static/js/admin/news/news_banner.js HTTP/1.1" 404 1712
+INFO 2019-05-20 18:56:58,637 basehttp 154 "GET /admin/banners/ HTTP/1.1" 200 12660
+INFO 2019-05-20 18:56:58,670 basehttp 154 "GET /static/js/admin/news/news_banner.js HTTP/1.1" 200 5282
+INFO 2019-05-20 18:57:20,223 basehttp 154 "GET /admin/banners/ HTTP/1.1" 200 12660
+INFO 2019-05-20 18:57:20,298 basehttp 154 "GET /static/images/favicon.ico HTTP/1.1" 200 67646
+INFO 2019-05-20 18:57:24,514 basehttp 154 "GET /admin/banners/ HTTP/1.1" 200 12660
+INFO 2019-05-20 18:57:24,541 basehttp 154 "GET /static/css/admin/base/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2019-05-20 18:57:24,546 basehttp 154 "GET /static/css/admin/base/font-awesome.min.css HTTP/1.1" 200 31000
+INFO 2019-05-20 18:57:24,555 basehttp 154 "GET /static/css/admin/base/ionicons.min.css HTTP/1.1" 200 51284
+INFO 2019-05-20 18:57:24,561 basehttp 154 "GET /static/css/admin/base/AdminLTE.min.css HTTP/1.1" 200 91501
+INFO 2019-05-20 18:57:24,564 basehttp 154 "GET /static/images/panda.jpg HTTP/1.1" 200 53500
+INFO 2019-05-20 18:57:24,566 basehttp 154 "GET /static/js/admin/base/jquery.min.js HTTP/1.1" 200 86927
+INFO 2019-05-20 18:57:24,585 basehttp 154 "GET /static/js/admin/base/message.js HTTP/1.1" 200 3570
+INFO 2019-05-20 18:57:24,585 basehttp 154 "GET /static/js/admin/base/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2019-05-20 18:57:24,586 basehttp 154 "GET /static/css/admin/base/skin-blue.min.css HTTP/1.1" 200 3156
+INFO 2019-05-20 18:57:24,586 basehttp 154 "GET /static/js/admin/base/adminlte.min.js HTTP/1.1" 200 14717
+INFO 2019-05-20 18:57:24,587 basehttp 154 "GET /static/js/admin/base/fsweetalert.js HTTP/1.1" 200 5808
+INFO 2019-05-20 18:57:24,590 basehttp 154 "GET /static/css/admin/base/sweetalert.css HTTP/1.1" 200 25041
+INFO 2019-05-20 18:57:24,590 basehttp 154 "GET /static/js/admin/base/sweetalert.min.js HTTP/1.1" 200 16994
+INFO 2019-05-20 18:57:24,593 basehttp 154 "GET /static/js/admin/news/news_banner.js HTTP/1.1" 200 5282
+INFO 2019-05-20 18:57:24,606 basehttp 154 "GET /static/css/admin/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 77160
+INFO 2019-05-20 18:57:24,658 basehttp 154 "GET /static/images/favicon.ico HTTP/1.1" 200 67646
+INFO 2019-05-20 18:57:34,192 basehttp 154 "GET /admin/banners/ HTTP/1.1" 200 12660
+INFO 2019-05-20 18:57:34,343 basehttp 154 "GET /static/css/admin/base/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2019-05-20 18:57:34,352 basehttp 154 "GET /static/js/admin/base/jquery.min.js HTTP/1.1" 200 86927
+INFO 2019-05-20 18:57:34,353 basehttp 154 "GET /static/css/admin/base/font-awesome.min.css HTTP/1.1" 200 31000
+INFO 2019-05-20 18:57:34,361 basehttp 154 "GET /static/js/admin/base/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2019-05-20 18:57:34,361 basehttp 154 "GET /static/js/admin/base/adminlte.min.js HTTP/1.1" 200 14717
+INFO 2019-05-20 18:57:34,365 basehttp 154 "GET /static/js/admin/base/message.js HTTP/1.1" 200 3570
+INFO 2019-05-20 18:57:34,368 basehttp 154 "GET /static/js/admin/base/fsweetalert.js HTTP/1.1" 200 5808
+INFO 2019-05-20 18:57:34,377 basehttp 154 "GET /static/js/admin/news/news_banner.js HTTP/1.1" 200 5282
+INFO 2019-05-20 18:57:34,378 basehttp 154 "GET /static/js/admin/base/sweetalert.min.js HTTP/1.1" 200 16994
+INFO 2019-05-20 18:57:34,379 basehttp 154 "GET /static/css/admin/base/ionicons.min.css HTTP/1.1" 200 51284
+INFO 2019-05-20 18:57:34,380 basehttp 154 "GET /static/css/admin/base/sweetalert.css HTTP/1.1" 200 25041
+INFO 2019-05-20 18:57:34,380 basehttp 154 "GET /static/css/admin/base/skin-blue.min.css HTTP/1.1" 200 3156
+INFO 2019-05-20 18:57:34,384 basehttp 154 "GET /static/css/admin/base/AdminLTE.min.css HTTP/1.1" 200 91501
+INFO 2019-05-20 18:57:34,601 basehttp 154 "GET /static/images/panda.jpg HTTP/1.1" 200 53500
+INFO 2019-05-20 18:57:34,634 basehttp 154 "GET /static/css/admin/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 77160
+INFO 2019-05-20 18:57:34,839 basehttp 154 "GET /static/images/favicon.ico HTTP/1.1" 200 67646
+INFO 2019-05-20 19:01:34,241 basehttp 154 "GET /admin/banners/ HTTP/1.1" 200 20724
+INFO 2019-05-20 19:02:01,717 basehttp 154 "GET /admin/banners/ HTTP/1.1" 200 20724
+INFO 2019-05-20 19:02:04,153 basehttp 154 "GET /admin/banners/ HTTP/1.1" 200 20724
+ERROR 2019-05-20 19:02:38,094 log 228 Internal Server Error: /admin/banners/
+Traceback (most recent call last):
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/beta/py/django/dj_web/mysite/apps/admin/views.py", line 676, in get
+    return render(request,'admin/news/news_banner.html',locals())
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/defaulttags.py", line 165, in render
+    values = list(values)
+TypeError: 'Banner' object is not iterable
+ERROR 2019-05-20 19:02:38,098 basehttp 154 "GET /admin/banners/ HTTP/1.1" 500 161168
+WARNING 2019-05-20 19:02:38,230 log 228 Not Found: /favicon.ico
+WARNING 2019-05-20 19:02:38,230 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 4290
+INFO 2019-05-20 19:02:45,616 basehttp 154 "GET /admin/banners/ HTTP/1.1" 200 20724
+INFO 2019-05-21 11:14:20,856 basehttp 154 "GET /admin/banners HTTP/1.1" 301 0
+INFO 2019-05-21 11:14:21,162 basehttp 154 "GET /admin/banners/ HTTP/1.1" 200 23166
+INFO 2019-05-21 11:14:21,353 basehttp 154 "GET /static/css/admin/base/font-awesome.min.css HTTP/1.1" 200 31000
+INFO 2019-05-21 11:14:21,358 basehttp 154 "GET /static/css/admin/base/skin-blue.min.css HTTP/1.1" 200 3156
+INFO 2019-05-21 11:14:21,358 basehttp 154 "GET /static/css/admin/base/ionicons.min.css HTTP/1.1" 200 51284
+INFO 2019-05-21 11:14:21,361 basehttp 154 "GET /static/css/admin/base/sweetalert.css HTTP/1.1" 200 25041
+INFO 2019-05-21 11:14:21,381 basehttp 154 "GET /static/js/admin/base/jquery.min.js HTTP/1.1" 200 86927
+INFO 2019-05-21 11:14:21,394 basehttp 154 "GET /static/css/admin/base/AdminLTE.min.css HTTP/1.1" 200 91501
+INFO 2019-05-21 11:14:21,410 basehttp 154 "GET /static/js/admin/base/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2019-05-21 11:14:21,411 basehttp 154 "GET /static/js/admin/base/adminlte.min.js HTTP/1.1" 200 14717
+INFO 2019-05-21 11:14:21,411 basehttp 154 "GET /static/js/admin/base/fsweetalert.js HTTP/1.1" 200 5808
+INFO 2019-05-21 11:14:21,418 basehttp 154 "GET /static/js/admin/base/message.js HTTP/1.1" 200 3570
+INFO 2019-05-21 11:14:21,419 basehttp 154 "GET /static/js/admin/base/sweetalert.min.js HTTP/1.1" 200 16994
+INFO 2019-05-21 11:14:21,426 basehttp 154 "GET /static/js/admin/news/news_banner.js HTTP/1.1" 200 5282
+INFO 2019-05-21 11:14:21,433 basehttp 154 "GET /static/css/admin/base/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2019-05-21 11:14:21,435 basehttp 154 "GET /media/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-05-21 11:14:21,439 basehttp 154 "GET /media/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-05-21 11:14:21,442 basehttp 154 "GET /media/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-05-21 11:14:21,445 basehttp 154 "GET /media/python_function.jpg HTTP/1.1" 200 27960
+INFO 2019-05-21 11:14:21,448 basehttp 154 "GET /media/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-05-21 11:14:21,454 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-05-21 11:14:21,467 basehttp 154 "GET /static/images/panda.jpg HTTP/1.1" 200 53500
+INFO 2019-05-21 11:14:21,975 basehttp 154 "GET /static/css/admin/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 77160
+INFO 2019-05-21 11:31:07,867 basehttp 154 "GET /admin/banners/ HTTP/1.1" 200 23166
+INFO 2019-05-21 11:31:19,445 basehttp 154 "GET /admin/banners/ HTTP/1.1" 200 23166
+INFO 2019-05-21 11:31:22,280 basehttp 154 "GET /admin/banners/ HTTP/1.1" 200 23166
+INFO 2019-05-21 11:32:50,483 basehttp 154 "GET /admin/banners/ HTTP/1.1" 200 23166
+INFO 2019-05-21 11:36:08,317 basehttp 154 "GET /admin/banners/ HTTP/1.1" 200 23166
+INFO 2019-05-21 11:36:10,088 basehttp 154 "GET /admin/banners/ HTTP/1.1" 200 23166
+INFO 2019-05-21 11:38:12,305 basehttp 154 "GET /admin/banners/ HTTP/1.1" 200 30492
+INFO 2019-05-21 11:38:12,397 basehttp 154 "GET /static/images/favicon.ico HTTP/1.1" 200 67646
+INFO 2019-05-21 11:53:47,931 basehttp 154 "GET / HTTP/1.1" 200 10841
+INFO 2019-05-21 11:53:47,945 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-05-21 11:53:47,947 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-05-21 11:53:47,979 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4428
+INFO 2019-05-21 11:53:47,989 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+INFO 2019-05-21 11:53:47,992 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 2421
+INFO 2019-05-21 11:53:47,995 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-05-21 11:53:47,999 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-05-21 11:53:48,008 basehttp 154 "GET /static/js/news/index.js HTTP/1.1" 200 6980
+INFO 2019-05-21 11:53:48,009 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-05-21 11:53:48,236 basehttp 154 "GET /static/images/wechat.jpg HTTP/1.1" 200 41182
+INFO 2019-05-21 11:53:48,362 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-05-21 11:53:48,405 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 2852
+INFO 2019-05-21 11:53:50,069 basehttp 154 "GET /news/1175 HTTP/1.1" 301 0
+INFO 2019-05-21 11:53:50,334 basehttp 154 "GET /news/1175/ HTTP/1.1" 200 9333
+INFO 2019-05-21 11:53:50,353 basehttp 154 "GET /static/css/news/news-detail.css HTTP/1.1" 200 3294
+INFO 2019-05-21 11:53:50,356 basehttp 154 "GET /static/plugins/markdown_editor/emoji/smile.png HTTP/1.1" 200 5890
+INFO 2019-05-21 11:53:50,358 basehttp 154 "GET /static/js/news/news_detail.js HTTP/1.1" 200 7589
+INFO 2019-05-21 11:53:54,197 basehttp 154 "GET /news/1173 HTTP/1.1" 301 0
+INFO 2019-05-21 11:53:54,457 basehttp 154 "GET /news/1173/ HTTP/1.1" 200 14852
+INFO 2019-05-21 11:53:54,497 basehttp 154 "GET /static/images/avatar.jpeg HTTP/1.1" 200 21328
+INFO 2019-05-21 11:53:54,505 basehttp 154 "GET /static/images/content_icon.png HTTP/1.1" 200 1146
+INFO 2019-05-21 11:54:33,595 basehttp 154 "POST /news/1173/comments/ HTTP/1.1" 200 75
+INFO 2019-05-21 11:54:34,647 basehttp 154 "GET /users/login/ HTTP/1.1" 200 4373
+INFO 2019-05-21 11:54:34,682 basehttp 154 "GET /static/css/authPro/auth.css HTTP/1.1" 200 3286
+INFO 2019-05-21 11:54:34,685 basehttp 154 "GET /static/js/users/login.js HTTP/1.1" 200 3782
+INFO 2019-05-21 11:54:42,136 basehttp 154 "POST /users/login/ HTTP/1.1" 200 111
+INFO 2019-05-21 11:54:46,942 basehttp 154 "POST /users/login/ HTTP/1.1" 200 96
+INFO 2019-05-21 11:54:48,237 basehttp 154 "GET /news/1173/ HTTP/1.1" 200 14888
+INFO 2019-05-21 11:55:09,869 basehttp 154 "POST /news/1173/comments/ HTTP/1.1" 200 241
+INFO 2019-05-21 11:55:24,589 views 209 前端传递的parent_id异常invalid literal for int() with base 10: 'undefined'
+INFO 2019-05-21 11:55:24,590 basehttp 154 "POST /news/1173/comments/ HTTP/1.1" 200 69
+INFO 2019-05-21 11:56:34,757 views 209 前端传递的parent_id异常invalid literal for int() with base 10: 'undefined'
+INFO 2019-05-21 11:56:34,759 basehttp 154 "POST /news/1173/comments/ HTTP/1.1" 200 69
+INFO 2019-05-21 14:21:16,176 basehttp 154 "GET /admin/banners/ HTTP/1.1" 200 30492
+INFO 2019-05-21 14:21:16,291 basehttp 154 "GET /media/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-05-21 14:21:16,347 basehttp 154 "GET /media/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-05-21 14:21:16,352 basehttp 154 "GET /media/python_function.jpg HTTP/1.1" 200 27960
+INFO 2019-05-21 14:21:16,356 basehttp 154 "GET /media/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-05-21 14:21:16,367 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-05-21 14:21:16,370 basehttp 154 "GET /media/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-05-21 14:21:20,544 basehttp 154 "GET / HTTP/1.1" 200 10841
+INFO 2019-05-21 14:21:21,255 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-05-21 14:21:21,261 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 2852
+INFO 2019-05-21 14:21:24,735 basehttp 154 "GET /news/1175/ HTTP/1.1" 200 9333
+INFO 2019-05-21 14:21:25,721 basehttp 154 "POST /news/1175/comments/ HTTP/1.1" 200 75
+INFO 2019-05-21 14:21:26,761 basehttp 154 "GET /users/login/ HTTP/1.1" 200 4373
+INFO 2019-05-21 14:21:32,574 basehttp 154 "POST /users/login/ HTTP/1.1" 200 96
+INFO 2019-05-21 14:21:33,844 basehttp 154 "GET /news/1175/ HTTP/1.1" 200 9369
+INFO 2019-05-21 14:22:07,511 basehttp 154 "POST /news/1175/comments/ HTTP/1.1" 200 295
+INFO 2019-05-21 14:22:16,968 views 209 前端传递的parent_id异常invalid literal for int() with base 10: 'undefined'
+INFO 2019-05-21 14:22:16,970 basehttp 154 "POST /news/1175/comments/ HTTP/1.1" 200 69
+INFO 2019-05-21 14:33:16,681 basehttp 154 "GET /admin HTTP/1.1" 301 0
+INFO 2019-05-21 14:33:16,912 basehttp 154 "GET /admin/ HTTP/1.1" 200 11627
+WARNING 2019-05-21 14:33:23,676 log 228 Not Found: /admin/group
+WARNING 2019-05-21 14:33:23,676 basehttp 154 "GET /admin/group HTTP/1.1" 404 8098
+WARNING 2019-05-21 14:33:23,727 log 228 Not Found: /favicon.ico
+WARNING 2019-05-21 14:33:23,727 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 4290
+INFO 2019-05-21 14:34:26,409 basehttp 154 "GET /admin/group HTTP/1.1" 301 0
+ERROR 2019-05-21 14:34:26,765 log 228 Internal Server Error: /admin/group/
+Traceback (most recent call last):
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/beta/py/django/dj_web/mysite/apps/admin/views.py", line 686, in get
+    return render(request,'admin/user/groups_manage.html',locals())
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/defaulttags.py", line 209, in render
+    nodelist.append(node.render_annotated(context))
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/defaulttags.py", line 442, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/urls/resolvers.py", line 622, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'groups_edit' not found. 'groups_edit' is not a valid view function or pattern name.
+ERROR 2019-05-21 14:34:27,163 basehttp 154 "GET /admin/group/ HTTP/1.1" 500 190636
+ERROR 2019-05-21 14:34:28,934 log 228 Internal Server Error: /admin/group/
+Traceback (most recent call last):
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/beta/py/django/dj_web/mysite/apps/admin/views.py", line 686, in get
+    return render(request,'admin/user/groups_manage.html',locals())
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/defaulttags.py", line 209, in render
+    nodelist.append(node.render_annotated(context))
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/defaulttags.py", line 442, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/urls/resolvers.py", line 622, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'groups_edit' not found. 'groups_edit' is not a valid view function or pattern name.
+ERROR 2019-05-21 14:34:28,937 basehttp 154 "GET /admin/group/ HTTP/1.1" 500 190636
+WARNING 2019-05-21 15:19:45,789 log 228 Not Found: /admin/group/
+WARNING 2019-05-21 15:19:45,790 basehttp 154 "GET /admin/group/ HTTP/1.1" 404 8667
+INFO 2019-05-21 15:19:50,125 basehttp 154 "GET /admin/groups HTTP/1.1" 301 0
+ERROR 2019-05-21 15:19:50,461 log 228 Internal Server Error: /admin/groups/
+Traceback (most recent call last):
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/beta/py/django/dj_web/mysite/apps/admin/views.py", line 686, in get
+    return render(request,'admin/user/groups_manage.html',locals())
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/defaulttags.py", line 442, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/urls/resolvers.py", line 622, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'groups_edit' with no arguments not found. 1 pattern(s) tried: ['admin\\/groups\\/(?P<group_id>[0-9]+)\\/$']
+ERROR 2019-05-21 15:19:50,468 basehttp 154 "GET /admin/groups/ HTTP/1.1" 500 165401
+INFO 2019-05-21 15:20:09,956 basehttp 154 "GET / HTTP/1.1" 200 10901
+INFO 2019-05-21 15:20:10,016 basehttp 154 "GET /media/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-05-21 15:20:10,018 basehttp 154 "GET /media/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-05-21 15:20:10,429 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 863
+INFO 2019-05-21 15:20:10,431 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 2852
+INFO 2019-05-21 15:20:10,691 basehttp 154 "GET /media/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-05-21 15:20:10,697 basehttp 154 "GET /media/python_function.jpg HTTP/1.1" 200 27960
+INFO 2019-05-21 15:20:10,698 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-05-21 15:20:10,700 basehttp 154 "GET /media/python_advanced.jpg HTTP/1.1" 200 120059
+ERROR 2019-05-21 15:20:14,308 log 228 Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/beta/py/django/dj_web/mysite/apps/admin/views.py", line 33, in get
+    return render(request,'admin/index/index.html')
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/template/defaulttags.py", line 442, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/home/beta/.virtualenvs/dj_web/lib/python3.6/site-packages/django/urls/resolvers.py", line 622, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'groups_edit' with no arguments not found. 1 pattern(s) tried: ['admin\\/groups\\/(?P<group_id>[0-9]+)\\/$']
+ERROR 2019-05-21 15:20:14,319 basehttp 154 "GET /admin/ HTTP/1.1" 500 157103
+INFO 2019-05-21 15:21:05,207 basehttp 154 "GET /admin/ HTTP/1.1" 200 11657
+INFO 2019-05-22 09:53:13,420 basehttp 154 "GET / HTTP/1.1" 200 10841
+INFO 2019-05-22 09:53:13,468 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-05-22 09:53:13,474 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-05-22 09:53:13,497 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4428
+INFO 2019-05-22 09:53:13,500 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+INFO 2019-05-22 09:53:13,508 basehttp 154 "GET /media/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-05-22 09:53:13,514 basehttp 154 "GET /media/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-05-22 09:53:13,522 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-05-22 09:53:13,523 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 2421
+INFO 2019-05-22 09:53:13,528 basehttp 154 "GET /static/js/news/index.js HTTP/1.1" 200 6980
+INFO 2019-05-22 09:53:13,531 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-05-22 09:53:13,536 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-05-22 09:53:13,561 basehttp 154 "GET /static/images/wechat.jpg HTTP/1.1" 200 41182
+INFO 2019-05-22 09:53:14,682 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 896
+INFO 2019-05-22 09:53:14,703 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 2852
+INFO 2019-05-22 09:53:14,967 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-05-22 09:53:14,967 basehttp 154 "GET /media/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-05-22 09:53:15,058 basehttp 154 "GET /media/python_function.jpg HTTP/1.1" 200 27960
+INFO 2019-05-22 09:53:15,062 basehttp 154 "GET /media/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-05-22 09:53:19,597 basehttp 154 "GET /news/?tag_id=0&page=2 HTTP/1.1" 200 3285
+INFO 2019-05-22 09:53:30,168 basehttp 154 "GET /users/login/ HTTP/1.1" 200 4373
+INFO 2019-05-22 09:53:30,193 basehttp 154 "GET /static/css/authPro/auth.css HTTP/1.1" 200 3286
+INFO 2019-05-22 09:53:30,196 basehttp 154 "GET /static/js/users/login.js HTTP/1.1" 200 3782
+INFO 2019-05-22 09:53:37,521 basehttp 154 "POST /users/login/ HTTP/1.1" 200 96
+INFO 2019-05-22 09:53:38,805 basehttp 154 "GET / HTTP/1.1" 200 11014
+INFO 2019-05-22 09:53:38,833 basehttp 154 "GET /media/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-05-22 09:53:38,836 basehttp 154 "GET /media/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-05-22 09:53:38,871 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 896
+INFO 2019-05-22 09:53:38,874 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 2852
+INFO 2019-05-22 09:53:39,131 basehttp 154 "GET /media/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-05-22 09:53:39,132 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-05-22 09:53:39,136 basehttp 154 "GET /media/python_function.jpg HTTP/1.1" 200 27960
+INFO 2019-05-22 09:53:39,137 basehttp 154 "GET /media/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-05-22 09:54:12,736 basehttp 154 "GET /news/1175 HTTP/1.1" 301 0
+INFO 2019-05-22 09:54:12,984 basehttp 154 "GET /news/1175/ HTTP/1.1" 200 12069
+INFO 2019-05-22 09:54:13,007 basehttp 154 "GET /static/css/news/news-detail.css HTTP/1.1" 200 3294
+INFO 2019-05-22 09:54:13,011 basehttp 154 "GET /static/plugins/markdown_editor/emoji/smile.png HTTP/1.1" 200 5890
+INFO 2019-05-22 09:54:13,014 basehttp 154 "GET /static/images/avatar.jpeg HTTP/1.1" 200 21328
+INFO 2019-05-22 09:54:13,017 basehttp 154 "GET /static/js/news/news_detail.js HTTP/1.1" 200 7589
+INFO 2019-05-22 09:54:13,022 basehttp 154 "GET /static/images/content_icon.png HTTP/1.1" 200 1146
+INFO 2019-05-22 09:55:04,081 basehttp 154 "POST /news/1175/comments/ HTTP/1.1" 200 259
+INFO 2019-05-22 09:55:09,251 basehttp 154 "GET /course/ HTTP/1.1" 200 7758
+INFO 2019-05-22 09:55:09,277 basehttp 154 "GET /static/css/course/course.css HTTP/1.1" 200 1916
+INFO 2019-05-22 09:55:12,322 basehttp 154 "GET /course/7/ HTTP/1.1" 200 8097
+INFO 2019-05-22 09:55:12,349 basehttp 154 "GET /static/css/course/course-detail.css HTTP/1.1" 200 2193
+INFO 2019-05-22 09:55:12,354 basehttp 154 "GET /media/panda.jpg HTTP/1.1" 200 53500
+INFO 2019-05-22 09:55:12,358 basehttp 154 "GET /static/js/course/course_detail.js HTTP/1.1" 200 464
+INFO 2019-05-22 09:55:39,176 basehttp 154 "GET /course/ HTTP/1.1" 200 7758
+INFO 2019-05-22 09:55:40,227 basehttp 154 "GET /course/2/ HTTP/1.1" 200 7944
+INFO 2019-05-22 09:55:50,289 basehttp 154 "GET /admin/ HTTP/1.1" 200 11671
+INFO 2019-05-22 09:55:50,334 basehttp 154 "GET /static/css/admin/base/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2019-05-22 09:55:50,335 basehttp 154 "GET /static/css/admin/base/font-awesome.min.css HTTP/1.1" 200 31000
+INFO 2019-05-22 09:55:50,340 basehttp 154 "GET /static/css/admin/base/AdminLTE.min.css HTTP/1.1" 200 91501
+INFO 2019-05-22 09:55:50,342 basehttp 154 "GET /static/css/admin/base/ionicons.min.css HTTP/1.1" 200 51284
+INFO 2019-05-22 09:55:50,345 basehttp 154 "GET /static/css/admin/base/skin-blue.min.css HTTP/1.1" 200 3156
+INFO 2019-05-22 09:55:50,354 basehttp 154 "GET /static/js/admin/base/jquery.min.js HTTP/1.1" 200 87336
+INFO 2019-05-22 09:55:50,355 basehttp 154 "GET /static/css/admin/base/sweetalert.css HTTP/1.1" 200 25041
+INFO 2019-05-22 09:55:50,357 basehttp 154 "GET /static/images/panda.jpg HTTP/1.1" 200 53500
+INFO 2019-05-22 09:55:50,360 basehttp 154 "GET /static/js/admin/base/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2019-05-22 09:55:50,384 basehttp 154 "GET /static/js/admin/base/adminlte.min.js HTTP/1.1" 200 14717
+INFO 2019-05-22 09:55:50,458 basehttp 154 "GET /static/css/admin/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 77160
+INFO 2019-05-22 09:55:50,507 basehttp 154 "GET /static/js/admin/base/sweetalert.min.js HTTP/1.1" 200 16994
+INFO 2019-05-22 09:55:50,509 basehttp 154 "GET /static/js/admin/base/fsweetalert.js HTTP/1.1" 200 5808
+INFO 2019-05-22 09:55:50,510 basehttp 154 "GET /static/js/admin/base/message.js HTTP/1.1" 200 3570
+INFO 2019-05-22 09:55:55,063 basehttp 154 "GET /admin/courses/ HTTP/1.1" 200 15019
+INFO 2019-05-22 09:55:55,300 basehttp 154 "GET /static/js/admin/course/courses_manage.js HTTP/1.1" 200 2140
+INFO 2019-05-22 09:55:57,222 basehttp 154 "GET /admin/courses/7/ HTTP/1.1" 200 18078
+INFO 2019-05-22 09:55:57,254 basehttp 154 "GET /static/plugins/markdown_editor/css/editormd.css HTTP/1.1" 200 82624
+INFO 2019-05-22 09:55:57,255 basehttp 154 "GET /static/js/admin/course/courses_pub.js HTTP/1.1" 200 9134
+INFO 2019-05-22 09:55:57,260 basehttp 154 "GET /static/js/admin/base/fqiniu.js HTTP/1.1" 200 2448
+INFO 2019-05-22 09:55:57,262 basehttp 154 "GET /static/plugins/markdown_editor/editormd.js HTTP/1.1" 200 163324
+INFO 2019-05-22 09:55:57,448 basehttp 154 "GET /static/node_modules/%40baiducloud/sdk/dist/baidubce-sdk.bundle.min.js HTTP/1.1" 200 558429
+INFO 2019-05-22 09:55:57,451 basehttp 154 "GET /static/plugins/markdown_editor/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 200 56780
+INFO 2019-05-22 09:55:57,503 basehttp 154 "GET /static/plugins/markdown_editor/examples/test.md HTTP/1.1" 200 0
+INFO 2019-05-22 09:55:57,518 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
+INFO 2019-05-22 09:55:57,755 basehttp 154 "GET /static/plugins/markdown_editor/lib/codemirror/addon/dialog/dialog.css HTTP/1.1" 200 502
+INFO 2019-05-22 09:55:57,758 basehttp 154 "GET /static/plugins/markdown_editor/lib/codemirror/codemirror.min.css HTTP/1.1" 200 5312
+INFO 2019-05-22 09:55:57,760 basehttp 154 "GET /static/plugins/markdown_editor/lib/codemirror/addon/search/matchesonscrollbar.css HTTP/1.1" 200 188
+INFO 2019-05-22 09:55:57,762 basehttp 154 "GET /static/plugins/markdown_editor/lib/codemirror/addon/fold/foldgutter.css HTTP/1.1" 200 435
+INFO 2019-05-22 09:55:57,769 basehttp 154 "GET /static/plugins/markdown_editor/images/loading.gif HTTP/1.1" 200 7726
+INFO 2019-05-22 09:55:57,985 basehttp 154 "GET /static/plugins/markdown_editor/lib/codemirror/codemirror.min.js HTTP/1.1" 200 221231
+INFO 2019-05-22 09:55:58,026 basehttp 154 "GET /static/plugins/markdown_editor/lib/codemirror/modes.min.js HTTP/1.1" 200 205547
+INFO 2019-05-22 09:55:58,048 basehttp 154 "GET /static/plugins/markdown_editor/lib/codemirror/addons.min.js HTTP/1.1" 200 39288
+INFO 2019-05-22 09:55:58,186 basehttp 154 "GET /static/plugins/markdown_editor/lib/marked.min.js HTTP/1.1" 200 19256
+INFO 2019-05-22 09:55:58,218 basehttp 154 "GET /static/plugins/markdown_editor/lib/prettify.min.js HTTP/1.1" 200 17973
+INFO 2019-05-22 09:55:58,233 basehttp 154 "GET /static/plugins/markdown_editor/lib/raphael.min.js HTTP/1.1" 200 92705
+INFO 2019-05-22 09:55:58,246 basehttp 154 "GET /static/plugins/markdown_editor/lib/underscore.min.js HTTP/1.1" 200 16487
+INFO 2019-05-22 09:55:58,478 basehttp 154 "GET /static/plugins/markdown_editor/lib/flowchart.min.js HTTP/1.1" 200 19807
+INFO 2019-05-22 09:55:58,486 basehttp 154 "GET /static/plugins/markdown_editor/lib/jquery.flowchart.min.js HTTP/1.1" 200 1396
+INFO 2019-05-22 09:55:58,496 basehttp 154 "GET /static/plugins/markdown_editor/lib/sequence-diagram.min.js HTTP/1.1" 200 87695
+INFO 2019-05-22 09:56:24,870 basehttp 154 "PUT /admin/courses/7/ HTTP/1.1" 200 78
+INFO 2019-05-22 09:56:26,838 basehttp 154 "GET /admin/courses/ HTTP/1.1" 200 15019
+INFO 2019-05-22 09:56:33,830 basehttp 154 "GET / HTTP/1.1" 200 11014
+INFO 2019-05-22 09:56:33,920 basehttp 154 "GET /news/banners/ HTTP/1.1" 200 896
+INFO 2019-05-22 09:56:33,927 basehttp 154 "GET /news/?tag_id=0&page=1 HTTP/1.1" 200 2852
+INFO 2019-05-22 09:56:36,160 basehttp 154 "GET /course/ HTTP/1.1" 200 7758
+INFO 2019-05-22 09:56:37,188 basehttp 154 "GET /course/7/ HTTP/1.1" 200 8097
+INFO 2019-05-22 09:56:44,389 basehttp 154 "GET /admin/ HTTP/1.1" 200 11671
+INFO 2019-05-22 09:56:47,268 basehttp 154 "GET /admin/courses/ HTTP/1.1" 200 15019
+INFO 2019-05-22 09:56:48,623 basehttp 154 "GET /admin/courses/7/ HTTP/1.1" 200 18078
+INFO 2019-05-22 09:56:48,819 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
+INFO 2019-05-22 09:56:52,599 basehttp 154 "GET /admin/courses/pub/ HTTP/1.1" 200 17718
+INFO 2019-05-22 09:56:52,881 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
+INFO 2019-05-22 09:56:53,782 basehttp 154 "GET /admin/docs/ HTTP/1.1" 200 14755
+INFO 2019-05-22 09:56:54,003 basehttp 154 "GET /static/js/admin/doc/docs_manage.js HTTP/1.1" 200 2118
+INFO 2019-05-22 09:56:55,658 basehttp 154 "GET /admin/docs/6/ HTTP/1.1" 200 14964
+INFO 2019-05-22 09:56:55,683 basehttp 154 "GET /static/js/admin/doc/docs_pub.js HTTP/1.1" 200 6905
+INFO 2019-05-22 09:56:55,749 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
+INFO 2019-05-22 09:57:04,569 basehttp 154 "GET /admin/courses/ HTTP/1.1" 200 15019
+INFO 2019-05-22 09:57:06,451 basehttp 154 "GET /admin/courses/5/ HTTP/1.1" 200 18040
+INFO 2019-05-22 09:57:06,727 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
+INFO 2019-05-22 09:57:14,540 basehttp 154 "GET /admin/courses/ HTTP/1.1" 200 15019
+INFO 2019-05-22 09:57:15,890 basehttp 154 "GET /admin/courses/7/ HTTP/1.1" 200 18078
+INFO 2019-05-22 09:57:16,172 basehttp 154 "GET /admin/token/ HTTP/1.1" 200 141
