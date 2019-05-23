@@ -252,3 +252,6 @@ SITE_DOMAIN_PORT = "http://192.168.2.242:8000"
 
 # fastdfs服务站点
 FASTDFS_SERVER_DOMAIN = "http://192.168.2.242:8888"
+
+# 登录的url地址
+LOGIN_URL = 'user:login'

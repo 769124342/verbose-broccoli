@@ -30,3 +30,8 @@ class User(AbstractUser):
 
     def __str__(self):  # 打印对象时调用
         return self.username
+
+    def get_groups_name(self):
+        # 查询用户组名称
+        group_name_list = [i.name for i in self.groups.all ()]
+        return ' | '.join (group_name_list)

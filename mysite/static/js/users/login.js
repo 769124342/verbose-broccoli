@@ -63,9 +63,18 @@ $(function () {
           // 注册成功
           message.showSuccess('恭喜你，登录成功！');
           setTimeout(function () {
-            // 注册成功之后重定向到打开登录页面之前的页面
-            window.location.href = document.referrer;
-          }, 1000)
+              // 注册成功之后重定向到打开登录页面之前的页面
+              //   window.location.href = document.referrer;
+              // }, 1000)
+              let sCurrentUrl = $(location).attr("href");
+              if (sCurrentUrl.indexOf('?next=') !== -1) {
+                  let sDomain = window.location.origin;
+                  window.location.href = sDomain + sCurrentUrl.split('=')[1];
+              }
+              else {
+                  window.location.href = document.referrer;
+              }
+          },800)
         } else {
           // 登录失败，打印错误信息
           message.showError(res.errmsg);

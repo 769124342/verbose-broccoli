@@ -33,4 +33,7 @@ urlpatterns = [
     path ('groups/', views.GroupsManageView.as_view (), name='groups_manage'),
     path ('groups/add/', views.GroupsAddView.as_view (), name='groups_add'),
     path ('groups/<int:group_id>/', views.GroupsEditView.as_view (), name='groups_edit'),
+
+    path('users/', views.UsersManageView.as_view(), name='users_manage'),
+    path('users/<int:user_id>/', views.UsersEditView.as_view(), name='users_edit'),
 ]
