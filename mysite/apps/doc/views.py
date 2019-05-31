@@ -27,7 +27,7 @@ class DocDownload (View):
         if doc:
             # 下载地址拼接
             doc_url = doc.file_url
-            doc_url = settings.SITE_DOMAIN_PORT + doc_url
+            # doc_url = settings.SITE_DOMAIN_PORT + doc_url
             try:
                 # stream在下载大文件的时候可以提升下载速度
                 res = FileResponse(requests.get(doc_url, stream=True))

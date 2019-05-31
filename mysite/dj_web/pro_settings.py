@@ -26,7 +26,7 @@ sys.path.insert(1, os.path.join(BASE_DIR, 'apps'))
 SECRET_KEY = 'ns#=q=!^ou-d(6umn79ltr%157770jo-kvjdxybb12tm$9zz*%'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
@@ -244,7 +244,6 @@ HAYSTACK_CONNECTIONS = {
 
 # 设置每页显示的数据量
 HAYSTACK_SEARCH_RESULTS_PER_PAGE = 5
-
 # 当数据库改变时，会自动更新索引
 HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'
 

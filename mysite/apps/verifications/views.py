@@ -17,6 +17,7 @@ from utils.json_fun import to_json_data
 from utils.res_code import Code,error_map
 from .forms import CheckImgCodeForm
 from utils.yuntongxun.sms import CCP
+from celery_tasks.sms import tasks as sms_tasks
 
 
 # 导入日志器
@@ -91,7 +92,10 @@ class SmsCodesView(View):
             # sms_num = ''
             # for i in range(6):
             #     sms_num += random.choice(string.digits)
-            sms_num=''.join([random.choice(string.digits) for _ in range(SMS_CODE_NUMS)]) # 生成随机验证码
+            # sms_num=''.join([random.choice(string.digits) for _ in range(SMS_CODE_NUMS)]) # 生成随机验证码
+
+            sms_num='%06d'% random.randint(0,999999) # 生成随机验证码
+
             con_redis=get_redis_connection(alias='verify_codes') # 连接存储redis数据库
 
             pl=con_redis.pipeline() # redis管道
@@ -110,8 +114,12 @@ class SmsCodesView(View):
             logger.info ("Sms code: {}".format (sms_num))
 
             # 4.发送短信验证码
-            logger.info('发送短信验证码[正常][mobile:%s sms_code:%s]'%(mobile,sms_num))
-            return to_json_data(errmsg=Code.OK,error_map='短信验证码发送成功')
+            # logger.info('发送短信验证码[正常][mobile:%s sms_code:%s]'%(mobile,sms_num))
+            # return to_json_data(errmsg=Code.OK,error_map='短信验证码发送成功')
+
+            expires = SMS_CODE_REDIS_EXPIRES
+            sms_tasks.send_sms_code.delay (mobile, sms_num, expires, SMS_CODE_TEMP_ID)
+            return to_json_data (errno=Code.OK, errmsg="短信验证码发送成功")
 
             # try:
             #     # 云通讯发送短信验证码（手机号，短信验证码，验证码有效期，短信模板）

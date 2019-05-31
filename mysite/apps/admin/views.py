@@ -4,13 +4,20 @@ from datetime import datetime
 from urllib.parse import urlencode
 
 import qiniu
+
+# 类装饰器
+from django.utils.decorators import method_decorator
+# 取消当前csrf验证
+from django.views.decorators.csrf import csrf_exempt
+
 # 类权限
+from django.contrib.auth.decorators import permission_required
 from django.contrib.auth.mixins import LoginRequiredMixin,PermissionRequiredMixin
 from django.contrib.auth.models import Group,Permission
 from django.core.paginator import Paginator, EmptyPage
 from django.db.models import Count
 from django.http import JsonResponse, Http404
-from django.shortcuts import render
+from django.shortcuts import render,redirect
 from django.views import View
 
 from users.models import User
@@ -24,7 +31,7 @@ from utils.fastdfs.fdfs import FDFS_Client
 from utils.json_fun import to_json_data
 from utils.res_code import Code, error_map
 from utils.secrets import qiniu_secret_info
-from .constants import SHOW_HOTNEWS_COUNT, PER_PAGE_NEWS_COUNT
+from .constants import SHOW_HOTNEWS_COUNT, PER_PAGE_NEWS_COUNT,SHOW_BANNER_COUNT
 from admin.forms import NewsPubForm, DocsPubForm, CoursesPubForm
 
 logger=logging.getLogger('django')
@@ -35,8 +42,11 @@ class IndexView(LoginRequiredMixin,View):
     # login_url = 'user:login'
     # 登录了后跳转页面
     redirect_field_name = 'next'
+
     def get(self,request):
-        return render(request,'admin/index/index.html')
+        if request.user in User.objects.filter(is_staff=True):
+            return render(request,'admin/index/index.html')
+        return render(request,'403.html')
 
 
 class TagManageView(PermissionRequiredMixin,View):
@@ -444,6 +454,8 @@ class UploadToken(View):
         return JsonResponse({"uptoken": token})
 
 
+# 装饰类，并且用到csrf装饰器，装饰所有
+@method_decorator(csrf_exempt,name='dispatch')
 class MarkDownUploadImage(View):
     """"""
     def post(self, request):
@@ -622,7 +634,7 @@ class DocsUploadFile(PermissionRequiredMixin,View):
             logger.info ('从前端获取文件失败!')
             return to_json_data (errno=Code.NODATA, errmsg='从前端获取文件失败')
         if text_file.content_type not in ('application/octet-stream', 'application/pdf',
-                                          'application/zip', 'text/plain', 'application/x-rar'):
+                                          'application/zip', 'text/plain', 'application/x-rar','application/msword'):
             return to_json_data (errno=Code.DATAERR, errmsg='不能上传的文件类型')
 
         try:
@@ -800,7 +812,8 @@ class BannerManageView(PermissionRequiredMixin,View):
     raise_exception = True
 
     def get(self,request):
-            banners = models.Banner.objects.only('image_url','id','priority').filter(is_delete=False)
+            banners = models.Banner.objects.only('image_url','priority').filter(is_delete=False).\
+                order_by('priority','id')[0:SHOW_BANNER_COUNT]
             priority_dict = dict(models.Banner.PRI_CHOICES)
             return render(request,'admin/news/news_banner.html',locals())
 
@@ -829,8 +842,9 @@ class BannerEditView(PermissionRequiredMixin,View):
             # 将json转化为dict
             dict_data = json.loads (json_data.decode ('utf8'))
             try:
+                # 从前端获取到优先级并且转换成int类型
                 priority = int (dict_data.get ('priority'))
-                # 优先级，把中文返回到前台
+                # 列表生成式，判断前端传递优先级在不在规定优先级中
                 priority_list = [i for i, _ in models.Banner.PRI_CHOICES]
                 if priority not in priority_list:
                     return to_json_data (errno=Code.PARAMERR, errmsg='轮播图的优先级设置错误')

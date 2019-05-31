@@ -117,7 +117,7 @@ class LoginForm(forms.Form):
                 # 设置session过期时间
                 # 用户没有点记住，关闭浏览器过期
                 if not hold_login:
-                    self.request.session.set_expiry(0)
+                    self.request.session.set_expiry(1)
                 else:
                     # 用户点击了记住，设置session过期时间
                     self.request.session.set_expiry(USER_SESSION_EXPIRES)
